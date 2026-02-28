@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alto — The Infrastructure for Electric & Autonomous Mobility</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #0C0A09;
+  --black-warm: #141110;
+  --black-card: #1A1614;
+  --white: #F5F0EB;
+  --cream: #EDE6DD;
+  --copper: #AC826D;
+  --copper-light: #C49B84;
+  --copper-dim: rgba(172, 130, 109, 0.12);
+  --copper-glow: rgba(172, 130, 109, 0.06);
+  --sand: #BAA590;
+  --sand-light: #D4C4B0;
+  --sage: #5B6C5C;
+  --sage-dim: rgba(91, 108, 92, 0.15);
+  --navy: #525D73;
+  --navy-deep: #1C2130;
+  --brown: #6B5C4F;
+  --gold: #DABB7C;
+  --rose: #C38D8E;
+  --amber: #B2794B;
+  --gray-warm: #8A7E74;
+  --gray-mid: #5C544C;
+  --gray-line: rgba(186, 165, 144, 0.1);
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'DM Sans', -apple-system, sans-serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--black);
+  color: var(--white);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.022;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 200px;
+}
+
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  padding: 1.25rem 3rem;
+  display: flex; justify-content: space-between; align-items: center;
+  background: rgba(12, 10, 9, 0.88);
+  backdrop-filter: blur(24px) saturate(1.2);
+  border-bottom: 1px solid var(--gray-line);
+}
+.nav-logo { height: 28px; width: auto; display: block; }
+.nav-links { display: flex; gap: 2.5rem; align-items: center; list-style: none; }
+.nav-links a {
+  color: var(--sand); text-decoration: none; font-size: 0.78rem;
+  font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; transition: color 0.3s;
+}
+.nav-links a:hover { color: var(--white); }
+.nav-cta {
+  background: var(--copper) !important; color: var(--black) !important;
+  padding: 0.55rem 1.4rem !important; border-radius: 3px;
+  font-weight: 600 !important; letter-spacing: 0.06em !important;
+  transition: background 0.3s, transform 0.2s !important;
+}
+.nav-cta:hover { background: var(--copper-light) !important; transform: translateY(-1px); }
+
+.hero {
+  min-height: 100vh; display: flex; flex-direction: column; justify-content: center;
+  padding: 10rem 3rem 5rem; position: relative; overflow: hidden;
+}
+.hero::before {
+  content: ''; position: absolute; top: -30%; right: -15%; width: 75vw; height: 75vw;
+  background: radial-gradient(ellipse at center, var(--copper-glow) 0%, transparent 65%);
+  pointer-events: none;
+}
+.hero::after {
+  content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gray-line), var(--copper-dim), var(--gray-line), transparent);
+}
+.hero-eyebrow {
+  font-family: var(--font-body); font-size: 0.72rem; font-weight: 500;
+  letter-spacing: 0.2em; text-transform: uppercase; color: var(--copper);
+  margin-bottom: 2rem; display: flex; align-items: center; gap: 1rem;
+}
+.hero-eyebrow::before { content: ''; width: 2.5rem; height: 1px; background: var(--copper); }
+.hero h1 {
+  font-family: var(--font-display); font-size: clamp(3.2rem, 7vw, 7rem);
+  font-weight: 300; line-height: 1.05; letter-spacing: -0.02em;
+  max-width: 920px; margin-bottom: 2rem; color: var(--white);
+}
+.hero h1 em { font-style: italic; color: var(--copper); font-weight: 400; }
+.hero-sub {
+  font-size: 1.15rem; color: var(--sand); max-width: 560px;
+  line-height: 1.75; margin-bottom: 4rem; font-weight: 300;
+}
+.hero-stats {
+  display: flex; gap: 5rem; padding-top: 3.5rem;
+  border-top: 1px solid var(--gray-line);
+}
+.stat-item { display: flex; flex-direction: column; }
+.stat-number {
+  font-family: var(--font-display); font-size: 3rem; font-weight: 300;
+  color: var(--white); letter-spacing: -0.02em; line-height: 1;
+}
+.stat-number span { color: var(--copper); }
+.stat-label {
+  font-size: 0.72rem; color: var(--gray-warm); text-transform: uppercase;
+  letter-spacing: 0.14em; margin-top: 0.6rem; font-weight: 500;
+}
+
+.partnership {
+  padding: 7rem 3rem; background: var(--black-warm);
+  border-top: 1px solid var(--gray-line); border-bottom: 1px solid var(--gray-line);
+  position: relative;
+}
+.partnership::before {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(135deg, rgba(82, 93, 115, 0.04) 0%, transparent 50%, rgba(172, 130, 109, 0.03) 100%);
+  pointer-events: none;
+}
+.partnership-inner {
+  max-width: 1140px; margin: 0 auto; display: grid;
+  grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; position: relative;
+}
+.partnership-text h2 {
+  font-family: var(--font-display); font-size: 2.8rem; font-weight: 300;
+  letter-spacing: -0.01em; margin-bottom: 1.5rem; line-height: 1.15;
+}
+.partnership-text h2 .uber {
+  color: var(--white); padding: 0.05em 0.35em;
+  background: rgba(255,255,255,0.07); border-radius: 4px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.partnership-text p { color: var(--sand); line-height: 1.8; font-size: 1rem; font-weight: 300; }
+.partnership-metrics { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+.metric-card {
+  background: rgba(255,255,255,0.02); border: 1px solid var(--gray-line);
+  border-radius: 6px; padding: 2rem; transition: border-color 0.4s, background 0.4s;
+}
+.metric-card:hover { border-color: rgba(172, 130, 109, 0.3); background: rgba(172, 130, 109, 0.04); }
+.metric-card .number {
+  font-family: var(--font-display); font-size: 2.2rem; font-weight: 400; color: var(--copper);
+}
+.metric-card .label {
+  font-size: 0.72rem; color: var(--gray-warm); margin-top: 0.4rem;
+  text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500;
+}
+
+.section-eyebrow {
+  font-family: var(--font-body); font-size: 0.68rem; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--copper); margin-bottom: 1rem; font-weight: 500;
+}
+
+.what-we-do { padding: 8rem 3rem; max-width: 1200px; margin: 0 auto; }
+.what-we-do h2 {
+  font-family: var(--font-display); font-size: 3.2rem; font-weight: 300;
+  letter-spacing: -0.01em; margin-bottom: 4rem; max-width: 680px; line-height: 1.15;
+}
+.pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+.pillar {
+  background: var(--black-card); border: 1px solid var(--gray-line); border-radius: 8px;
+  padding: 2.5rem; position: relative; overflow: hidden;
+  transition: transform 0.4s cubic-bezier(0.2, 0, 0, 1), border-color 0.4s;
+}
+.pillar::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, var(--copper), transparent); opacity: 0; transition: opacity 0.4s;
+}
+.pillar:hover { transform: translateY(-3px); border-color: rgba(172, 130, 109, 0.2); }
+.pillar:hover::before { opacity: 1; }
+.pillar-icon {
+  width: 44px; height: 44px; border-radius: 8px; background: var(--copper-dim);
+  display: flex; align-items: center; justify-content: center; margin-bottom: 1.5rem; font-size: 1.2rem;
+}
+.pillar h3 {
+  font-family: var(--font-display); font-size: 1.4rem; font-weight: 500;
+  margin-bottom: 0.8rem; letter-spacing: 0;
+}
+.pillar p { color: var(--sand); font-size: 0.92rem; line-height: 1.7; font-weight: 300; }
+
+.infrastructure { padding: 8rem 3rem; position: relative; overflow: hidden; }
+.infrastructure::before {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 50%, rgba(91, 108, 92, 0.06) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 50%, rgba(172, 130, 109, 0.05) 0%, transparent 50%),
+    linear-gradient(180deg, var(--black) 0%, var(--navy-deep) 50%, var(--black) 100%);
+  pointer-events: none;
+}
+.infra-inner { max-width: 1200px; margin: 0 auto; position: relative; }
+.infra-inner h2 {
+  font-family: var(--font-display); font-size: 3.2rem; font-weight: 300;
+  letter-spacing: -0.01em; margin-bottom: 1.5rem; line-height: 1.15;
+}
+.infra-inner > p {
+  color: var(--sand); font-size: 1.05rem; line-height: 1.8;
+  max-width: 620px; margin-bottom: 4rem; font-weight: 300;
+}
+.infra-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; }
+.infra-item {
+  background: rgba(255,255,255,0.02); border: 1px solid var(--gray-line);
+  border-radius: 8px; padding: 2.5rem 2rem; text-align: center;
+  transition: border-color 0.4s, background 0.4s;
+}
+.infra-item:hover { border-color: rgba(172, 130, 109, 0.25); background: rgba(172, 130, 109, 0.03); }
+.infra-item .big-number {
+  font-family: var(--font-display); font-size: 3rem; font-weight: 300;
+  color: var(--copper); margin-bottom: 0.5rem; line-height: 1;
+}
+.infra-item .desc {
+  font-size: 0.75rem; color: var(--gray-warm); text-transform: uppercase;
+  letter-spacing: 0.1em; font-weight: 500;
+}
+
+.divider {
+  max-width: 1200px; margin: 0 auto; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gray-line), rgba(172, 130, 109, 0.15), var(--gray-line), transparent);
+}
+
+.av-future { padding: 8rem 3rem; max-width: 1200px; margin: 0 auto; }
+.av-future h2 {
+  font-family: var(--font-display); font-size: 3.2rem; font-weight: 300;
+  letter-spacing: -0.01em; margin-bottom: 1.5rem; line-height: 1.15;
+}
+.av-future > p {
+  color: var(--sand); font-size: 1.05rem; line-height: 1.8;
+  max-width: 620px; margin-bottom: 4rem; font-weight: 300;
+}
+.av-timeline {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; position: relative;
+}
+.av-timeline::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, var(--copper), var(--sand), rgba(186, 165, 144, 0.1));
+  border-radius: 1px;
+}
+.timeline-phase {
+  background: var(--black-card); border: 1px solid var(--gray-line); border-radius: 8px;
+  padding: 2.5rem; margin-top: 2rem; position: relative;
+}
+.phase-marker {
+  width: 10px; height: 10px; border-radius: 50%; background: var(--copper);
+  position: absolute; top: -1.55rem; left: 2.5rem;
+  box-shadow: 0 0 16px rgba(172, 130, 109, 0.5), 0 0 4px rgba(172, 130, 109, 0.8);
+}
+.phase-label {
+  font-family: var(--font-body); font-size: 0.68rem; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--copper); margin-bottom: 1rem; font-weight: 500;
+}
+.timeline-phase h3 { font-family: var(--font-display); font-size: 1.5rem; font-weight: 500; margin-bottom: 0.8rem; }
+.timeline-phase p { color: var(--sand); font-size: 0.92rem; line-height: 1.7; font-weight: 300; }
+
+.markets {
+  padding: 8rem 3rem; background: var(--cream); color: var(--black); position: relative;
+}
+.markets::before {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 30% 0%, rgba(172, 130, 109, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 100%, rgba(91, 108, 92, 0.06) 0%, transparent 50%);
+  pointer-events: none;
+}
+.markets-inner { max-width: 1200px; margin: 0 auto; position: relative; }
+.markets-inner .section-eyebrow { color: var(--brown); }
+.markets-inner h2 {
+  font-family: var(--font-display); font-size: 2.8rem; font-weight: 400;
+  letter-spacing: -0.01em; margin-bottom: 0.5rem; color: var(--black);
+}
+.markets-tagline {
+  font-family: var(--font-display); font-size: 1.3rem; font-style: italic;
+  color: var(--copper); margin-bottom: 1rem; font-weight: 400;
+}
+.markets-inner > p {
+  color: var(--brown); font-size: 1rem; line-height: 1.75;
+  max-width: 560px; margin-bottom: 3rem; font-weight: 300;
+}
+.market-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; }
+.market-card {
+  background: var(--white); border: 1px solid rgba(172, 130, 109, 0.12);
+  border-radius: 8px; padding: 2rem;
+  transition: transform 0.4s cubic-bezier(0.2, 0, 0, 1), box-shadow 0.4s;
+}
+.market-card:hover { transform: translateY(-4px); box-shadow: 0 16px 48px rgba(107, 92, 79, 0.1); }
+.market-card h3 {
+  font-family: var(--font-display); font-size: 1.6rem; font-weight: 500;
+  margin-bottom: 0.3rem; color: var(--black);
+}
+.market-card .market-type {
+  font-size: 0.68rem; color: var(--copper); text-transform: uppercase;
+  letter-spacing: 0.14em; margin-bottom: 1rem; font-weight: 500;
+}
+.market-card .market-detail { font-size: 0.9rem; color: var(--brown); line-height: 1.65; font-weight: 300; }
+.market-links { margin-top: 1.2rem; display: flex; gap: 1rem; }
+.market-link {
+  font-size: 0.82rem; font-weight: 600; color: var(--copper); text-decoration: none;
+  display: flex; align-items: center; gap: 0.4rem; transition: color 0.3s, gap 0.3s;
+}
+.market-link:hover { color: var(--amber); gap: 0.6rem; }
+
+.leadership { padding: 8rem 3rem; max-width: 1200px; margin: 0 auto; }
+.leadership h2 {
+  font-family: var(--font-display); font-size: 2.8rem; font-weight: 300;
+  letter-spacing: -0.01em; margin-bottom: 4rem;
+}
+.team-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+.team-member {
+  padding: 2rem; background: var(--black-card); border: 1px solid var(--gray-line);
+  border-radius: 8px; transition: border-color 0.4s;
+}
+.team-member:hover { border-color: rgba(172, 130, 109, 0.25); }
+.member-avatar {
+  width: 56px; height: 56px; border-radius: 50%;
+  background: linear-gradient(135deg, var(--copper-dim), rgba(172, 130, 109, 0.06));
+  border: 1px solid rgba(172, 130, 109, 0.15);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display); font-size: 1.2rem; font-weight: 500;
+  color: var(--copper); margin-bottom: 1.2rem;
+}
+.team-member h3 { font-family: var(--font-display); font-size: 1.2rem; font-weight: 500; margin-bottom: 0.2rem; }
+.team-member .role {
+  font-size: 0.72rem; color: var(--copper); margin-bottom: 0.8rem;
+  text-transform: uppercase; letter-spacing: 0.1em; font-weight: 500;
+}
+.team-member .bio { font-size: 0.9rem; color: var(--sand); line-height: 1.65; font-weight: 300; }
+
+.investor-cta { padding: 10rem 3rem; text-align: center; position: relative; overflow: hidden; }
+.investor-cta::before {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 80%, rgba(172, 130, 109, 0.08) 0%, transparent 55%),
+    radial-gradient(ellipse at 50% 20%, rgba(91, 108, 92, 0.04) 0%, transparent 40%),
+    linear-gradient(180deg, var(--black) 0%, var(--black-warm) 100%);
+  pointer-events: none;
+}
+.investor-cta .section-eyebrow { position: relative; }
+.investor-cta h2 {
+  font-family: var(--font-display); font-size: clamp(2.5rem, 4.5vw, 4rem);
+  font-weight: 300; letter-spacing: -0.01em; margin-bottom: 1.5rem;
+  position: relative; line-height: 1.1;
+}
+.investor-cta h2 em { font-style: italic; color: var(--copper); font-weight: 400; }
+.investor-cta p {
+  font-size: 1.1rem; color: var(--sand); max-width: 520px;
+  margin: 0 auto 3rem; line-height: 1.75; font-weight: 300; position: relative;
+}
+.cta-buttons { display: flex; gap: 1rem; justify-content: center; position: relative; }
+.btn-primary {
+  background: var(--copper); color: var(--black); padding: 1rem 2.5rem;
+  border-radius: 4px; font-weight: 600; font-size: 0.88rem;
+  text-decoration: none; letter-spacing: 0.04em; transition: background 0.3s, transform 0.2s;
+}
+.btn-primary:hover { background: var(--copper-light); transform: translateY(-2px); }
+.btn-secondary {
+  background: transparent; color: var(--white); padding: 1rem 2.5rem;
+  border-radius: 4px; font-weight: 500; font-size: 0.88rem;
+  text-decoration: none; letter-spacing: 0.04em;
+  border: 1px solid rgba(186, 165, 144, 0.2); transition: border-color 0.3s, color 0.3s, transform 0.2s;
+}
+.btn-secondary:hover { border-color: var(--sand); transform: translateY(-2px); }
+
+footer { padding: 4rem 3rem; border-top: 1px solid var(--gray-line); background: var(--black); }
+.footer-inner {
+  max-width: 1200px; margin: 0 auto; display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr; gap: 3rem;
+}
+.footer-logo { height: 22px; width: auto; opacity: 0.7; display: block; margin-bottom: 1rem; }
+.footer-brand p { color: var(--gray-warm); font-size: 0.85rem; line-height: 1.65; max-width: 280px; font-weight: 300; }
+.footer-col h4 {
+  font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.15em;
+  color: var(--gray-warm); margin-bottom: 1rem; font-weight: 500;
+}
+.footer-col a {
+  display: block; color: var(--sand); text-decoration: none; font-size: 0.88rem;
+  margin-bottom: 0.6rem; font-weight: 300; transition: color 0.3s;
+}
+.footer-col a:hover { color: var(--white); }
+.footer-bottom {
+  max-width: 1200px; margin: 3rem auto 0; padding-top: 2rem;
+  border-top: 1px solid var(--gray-line); display: flex;
+  justify-content: space-between; font-size: 0.78rem; color: var(--gray-warm); font-weight: 300;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.hero .hero-eyebrow, .hero h1, .hero .hero-sub, .hero .hero-stats {
+  animation: fadeUp 0.9s cubic-bezier(0.2, 0, 0, 1) both;
+}
+.hero .hero-eyebrow { animation-delay: 0.1s; }
+.hero h1 { animation-delay: 0.25s; }
+.hero .hero-sub { animation-delay: 0.4s; }
+.hero .hero-stats { animation-delay: 0.6s; }
+
+.reveal {
+  opacity: 0; transform: translateY(20px);
+  transition: opacity 0.7s cubic-bezier(0.2, 0, 0, 1), transform 0.7s cubic-bezier(0.2, 0, 0, 1);
+}
+.reveal.visible { opacity: 1; transform: translateY(0); }
+
+@media (max-width: 1024px) {
+  .pillars { grid-template-columns: repeat(2, 1fr); }
+  .market-cards { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 900px) {
+  nav { padding: 1rem 1.5rem; }
+  .nav-links { gap: 1.5rem; }
+  .nav-links li:not(:last-child):not(:nth-last-child(2)) { display: none; }
+  .hero { padding: 8rem 1.5rem 3rem; }
+  .hero-stats { gap: 2.5rem; flex-wrap: wrap; }
+  .partnership { padding: 5rem 1.5rem; }
+  .partnership-inner { grid-template-columns: 1fr; gap: 3rem; }
+  .what-we-do, .av-future, .leadership { padding: 5rem 1.5rem; }
+  .infrastructure { padding: 5rem 1.5rem; }
+  .pillars { grid-template-columns: 1fr; }
+  .infra-grid { grid-template-columns: repeat(2, 1fr); }
+  .av-timeline { grid-template-columns: 1fr; }
+  .av-timeline::before { display: none; }
+  .timeline-phase { margin-top: 0; }
+  .phase-marker { display: none; }
+  .team-grid { grid-template-columns: 1fr; }
+  .footer-inner { grid-template-columns: 1fr 1fr; }
+  .markets { padding: 5rem 1.5rem; }
+  .investor-cta { padding: 5rem 1.5rem; }
+}
+@media (max-width: 600px) {
+  .hero-stats { gap: 2rem; }
+  .stat-number { font-size: 2.2rem; }
+  .infra-grid { grid-template-columns: 1fr; }
+  .market-cards { grid-template-columns: 1fr; }
+  .partnership-metrics { grid-template-columns: 1fr; }
+  .cta-buttons { flex-direction: column; align-items: center; }
+  .footer-inner { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#"><img src="assets/Alto_Wordmark_Copper_XL.png" alt="Alto" class="nav-logo"></a>
+  <ul class="nav-links">
+    <li><a href="#platform">Platform</a></li>
+    <li><a href="#infrastructure">Infrastructure</a></li>
+    <li><a href="#autonomous">Autonomous</a></li>
+    <li><a href="#markets">Ride With Us</a></li>
+    <li><a href="#team">Team</a></li>
+    <li><a href="#careers" class="nav-cta">Drive for Alto</a></li>
+  </ul>
+</nav>
+
+<section class="hero">
+  <div class="hero-eyebrow">Rideshare. Refined.</div>
+  <h1>The <em>infrastructure</em> for electric&nbsp;&amp; autonomous&nbsp;fleets</h1>
+  <p class="hero-sub">Alto operates the largest vertically integrated electric rideshare fleet in the US — building the depot, charging, and operational infrastructure that will power the autonomous transition.</p>
+  <div class="hero-stats">
+    <div class="stat-item">
+      <div class="stat-number">1,000<span>+</span></div>
+      <div class="stat-label">Electric Vehicles</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">4,000<span>+</span></div>
+      <div class="stat-label">W-2 Drivers</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">200M<span>+</span></div>
+      <div class="stat-label">Miles Driven</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">4</div>
+      <div class="stat-label">Markets</div>
+    </div>
+  </div>
+</section>
+
+<section class="partnership" id="platform">
+  <div class="partnership-inner">
+    <div class="partnership-text">
+      <div class="section-eyebrow reveal">Strategic Partnership</div>
+      <h2 class="reveal">Scaled on <span class="uber">Uber</span>, powered by Alto</h2>
+      <p class="reveal">Alto operates on the Uber platform across Los Angeles and Miami, delivering premium rides through Uber Black, Uber XL, and UberTeen. Uber is both our distribution partner and a $35M strategic investor — validating our model as the fleet operations layer for the future of mobility.</p>
+    </div>
+    <div class="partnership-metrics">
+      <div class="metric-card reveal"><div class="number">$35M</div><div class="label">Uber Investment</div></div>
+      <div class="metric-card reveal"><div class="number">2M+</div><div class="label">Uber Rides (Year 1)</div></div>
+      <div class="metric-card reveal"><div class="number">250%</div><div class="label">YoY Growth</div></div>
+      <div class="metric-card reveal"><div class="number">⅓</div><div class="label">Insurance Cost vs. Uber</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="what-we-do">
+  <div class="section-eyebrow reveal">What We Do</div>
+  <h2 class="reveal">Vertically integrated fleet operations at scale</h2>
+  <div class="pillars">
+    <div class="pillar reveal">
+      <div class="pillar-icon">⚡</div>
+      <h3>All-Electric Fleet</h3>
+      <p>1,000+ Kia EV9s across four markets. We completed our full transition to electric in Q4 2025 — every vehicle on the road is zero-emission.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-icon">🏗️</div>
+      <h3>Depot Infrastructure</h3>
+      <p>7 depots with charging, maintenance, and fleet staging. Our depot footprint is the foundation for both human-driven and autonomous operations.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-icon">🛡️</div>
+      <h3>Safety &amp; Compliance</h3>
+      <p>W-2 employed drivers. AI-powered real-time video monitoring for distracted driving. Background checks, drug testing, and ongoing performance analysis.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-icon">🤖</div>
+      <h3>Proprietary Technology</h3>
+      <p>AI-driven fleet optimization — supply positioning, demand forecasting, driver-trip matching, and ML-based scheduling that drives down unit costs quarter over quarter.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-icon">👥</div>
+      <h3>Driver Excellence</h3>
+      <p>Less than 15% acceptance rate. 33% women drivers vs. 11% industry average. Hourly pay, not gig — creating a professional driver workforce.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-icon">📈</div>
+      <h3>Capital Efficiency</h3>
+      <p>Central overhead under 10% of revenue. LA profitable. Unit costs declining 20%+ year over year. A model designed to scale.</p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section class="infrastructure" id="infrastructure">
+  <div class="infra-inner">
+    <div class="section-eyebrow reveal">Infrastructure</div>
+    <h2 class="reveal">Built for scale. Ready for autonomy.</h2>
+    <p class="reveal">Our depot and charging network is the physical infrastructure layer that autonomous vehicles will need. The best depot location is significantly more valuable than the second-best — and we're already there.</p>
+    <div class="infra-grid">
+      <div class="infra-item reveal"><div class="big-number">7</div><div class="desc">Depots Operational</div></div>
+      <div class="infra-item reveal"><div class="big-number">4</div><div class="desc">Major US Markets</div></div>
+      <div class="infra-item reveal"><div class="big-number">~400</div><div class="desc">Drivers Hired / Week</div></div>
+      <div class="infra-item reveal"><div class="big-number">$100M+</div><div class="desc">Revenue Run Rate</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="av-future" id="autonomous">
+  <div class="section-eyebrow reveal">Autonomous Strategy</div>
+  <h2 class="reveal">Infrastructure, not algorithms</h2>
+  <p class="reveal">AV technology will be commoditized. What won't be commoditized is the physical infrastructure — depots, charging, maintenance, compliance — that every autonomous fleet will need. We're building that layer now.</p>
+  <div class="av-timeline">
+    <div class="timeline-phase reveal">
+      <div class="phase-marker"></div>
+      <div class="phase-label">Now</div>
+      <h3>Solving Supply Today</h3>
+      <p>Rapidly scaling human-driven electric fleets across key US markets. Proving unit economics, building depot infrastructure, and establishing market position through the Uber platform.</p>
+    </div>
+    <div class="timeline-phase reveal">
+      <div class="phase-marker" style="opacity: 0.6;"></div>
+      <div class="phase-label">2026–2027</div>
+      <h3>AV Integration</h3>
+      <p>Our depots are designed for dual-use: human-driven and autonomous vehicles. As AV platforms launch, Alto's infrastructure, compliance, and operational expertise become the deployment layer.</p>
+    </div>
+    <div class="timeline-phase reveal">
+      <div class="phase-marker" style="opacity: 0.3;"></div>
+      <div class="phase-label">2028+</div>
+      <h3>Fleet Operations Platform</h3>
+      <p>Multiple AV manufacturers competing for depot access — like car manufacturers competing for fleet contracts today. Alto becomes the Hertz of autonomous mobility.</p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section class="markets" id="markets">
+  <div class="markets-inner">
+    <div class="section-eyebrow reveal">Our Markets</div>
+    <h2 class="reveal">Ride with Alto</h2>
+    <div class="markets-tagline reveal">We exist to create remarkable journeys.</div>
+    <p class="reveal">Premium, safe, all-electric rides. Available now in four markets through the Alto app and Uber.</p>
+    <div class="market-cards">
+      <div class="market-card reveal">
+        <h3>Dallas</h3>
+        <div class="market-type">Alto App</div>
+        <div class="market-detail">Our hometown. Full Alto experience — schedule rides, choose your vehicle, rate your driver.</div>
+        <div class="market-links"><a href="#" class="market-link">Book a Ride →</a></div>
+      </div>
+      <div class="market-card reveal">
+        <h3>Houston</h3>
+        <div class="market-type">Alto App</div>
+        <div class="market-detail">Growing fast in H-Town. Same premium electric experience, powered by local W-2 drivers.</div>
+        <div class="market-links"><a href="#" class="market-link">Book a Ride →</a></div>
+      </div>
+      <div class="market-card reveal">
+        <h3>Los Angeles</h3>
+        <div class="market-type">Via Uber</div>
+        <div class="market-detail">Request Alto through Uber Black and Uber XL. All-electric Kia EV9s with professional drivers.</div>
+        <div class="market-links"><a href="#" class="market-link">Open Uber →</a></div>
+      </div>
+      <div class="market-card reveal">
+        <h3>Miami</h3>
+        <div class="market-type">Via Uber</div>
+        <div class="market-detail">Available on Uber Black, Uber XL, and UberTeen. Premium rides across South Florida.</div>
+        <div class="market-links"><a href="#" class="market-link">Open Uber →</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="leadership" id="team">
+  <div class="section-eyebrow reveal">Leadership</div>
+  <h2 class="reveal">Built by operators</h2>
+  <div class="team-grid">
+    <div class="team-member reveal">
+      <div class="member-avatar">WC</div>
+      <h3>Will Coleman</h3>
+      <div class="role">Founder &amp; CEO</div>
+      <div class="bio">Former McKinsey Partner (11 years). Air and travel practice. Built Alto from first principles after a decade advising the world's largest transportation companies.</div>
+    </div>
+    <div class="team-member reveal">
+      <div class="member-avatar">DD</div>
+      <h3>Dana Donato</h3>
+      <div class="role">Chief Operating Officer</div>
+      <div class="bio">Leads day-to-day operations across all four markets. Oversees depot operations, fleet management, and driver workforce.</div>
+    </div>
+    <div class="team-member reveal">
+      <div class="member-avatar">PC</div>
+      <h3>Patrice Crisinel</h3>
+      <div class="role">Chief Financial Officer</div>
+      <div class="bio">Manages financial strategy, investor relations, and capital allocation. Board member providing financial governance.</div>
+    </div>
+    <div class="team-member reveal">
+      <div class="member-avatar">JC</div>
+      <h3>Jonathan Campos</h3>
+      <div class="role">Chief Technology Officer</div>
+      <div class="bio">Leads development of Alto's proprietary fleet optimization platform, AI safety monitoring, and technology infrastructure.</div>
+    </div>
+    <div class="team-member reveal">
+      <div class="member-avatar">FM</div>
+      <h3>Fiona Maguire</h3>
+      <div class="role">Chief Experience Officer</div>
+      <div class="bio">Owns rider and driver experience across all touchpoints. Building the brand that riders trust and drivers are proud of.</div>
+    </div>
+    <div class="team-member reveal">
+      <div class="member-avatar">MR</div>
+      <h3>Mary Rose Davis</h3>
+      <div class="role">Chief of Staff &amp; Strategy</div>
+      <div class="bio">Coordinates strategic initiatives, market expansion, and cross-functional execution across the executive team.</div>
+    </div>
+  </div>
+</section>
+
+<section class="investor-cta">
+  <div class="section-eyebrow reveal">Get Involved</div>
+  <h2 class="reveal">The fleet of the future is <em>electric</em></h2>
+  <p class="reveal">Alto is building the infrastructure layer for the next era of mobility. We're looking for partners, investors, and operators who share our vision.</p>
+  <div class="cta-buttons reveal">
+    <a href="mailto:invest@ridealto.com" class="btn-primary">Investor Inquiries</a>
+    <a href="#careers" class="btn-secondary">Join Our Team</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="assets/Alto_Wordmark_Copper_XL.png" alt="Alto" class="footer-logo">
+      <p>The infrastructure for electric and autonomous mobility. Operating in Dallas, Houston, Los Angeles, and Miami.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Company</h4>
+      <a href="#">About</a><a href="#">Leadership</a><a href="#">Careers</a><a href="#">Press</a>
+    </div>
+    <div class="footer-col">
+      <h4>Riders</h4>
+      <a href="#">Book a Ride</a><a href="#">Dallas &amp; Houston</a><a href="#">LA &amp; Miami (Uber)</a><a href="#">Safety</a>
+    </div>
+    <div class="footer-col">
+      <h4>Drivers</h4>
+      <a href="#">Apply to Drive</a><a href="#">Driver FAQ</a><a href="#">Markets</a><a href="#">Benefits</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Alto. All rights reserved.</span>
+    <span>Privacy · Terms · Contact</span>
+  </div>
+</footer>
+
+<script>
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      const parent = entry.target.parentElement;
+      const siblings = Array.from(parent.querySelectorAll(':scope > .reveal'));
+      const idx = siblings.indexOf(entry.target);
+      entry.target.style.transitionDelay = (idx * 0.08) + 's';
+      entry.target.classList.add('visible');
+      observer.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.12, rootMargin: '0px 0px -50px 0px' });
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+</script>
+
+</body>
+</html>
