@@ -1,0 +1,3308 @@
+Uber Technologies, Inc.
+Q4 2025 Earnings
+
+February 4, 2026
+
+Supplemental Data
+
+1
+
+Non-GAAP Financial Measures Disclosure
+To supplement our financial information, which is
+prepared and presented in accordance with generally
+accepted accounting principles in the United States of
+America, or GAAP, we use the following non-GAAP
+financial measures: Adjusted EBITDA; Non-GAAP
+Operating Income; Non-GAAP Net Income; Non-GAAP
+EPS; Non-GAAP Costs and Operating Expenses; Trailing
+Twelve Months Adjusted EBITDA; Trailing Twelve Months
+Free Cash Flow; Free Cash Flow as well as revenue growth
+rates in constant currency. The presentation of this
+financial information is not intended to be considered in
+isolation or as a substitute for, or superior to, the financial
+information prepared and presented in accordance with
+GAAP. We use these non-GAAP financial measures for
+financial and operational decision-making and as a
+means to evaluate period-to-period comparisons.
+We believe that these non-GAAP financial measures
+provide meaningful supplemental information regarding
+our performance by excluding certain items that may
+not be indicative of our recurring core business
+operating results.
+
+We believe that both management and investors benefit
+from referring to these non-GAAP financial measures in
+assessing our performance and when planning,
+forecasting, and analyzing future periods. These nonGAAP financial measures also facilitate management’s
+internal comparisons to our historical performance. We
+believe these non-GAAP financial measures are useful to
+investors both because (1) they allow for greater
+transparency with respect to key metrics used by
+management in its financial and operational decisionmaking and (2) they are used by our institutional investors
+and the analyst community to help them analyze the
+health of our business.
+
+For more information on these non-GAAP financial
+measures, please see the section titled “Non-GAAP
+Reconciliations” included at the end of this deck.
+In regards to forward looking non-GAAP guidance, we
+are not able to reconcile the forward-looking Non-GAAP
+EPS and Adjusted EBITDA measures to the closest
+corresponding GAAP measures without unreasonable
+efforts because we are unable to predict the ultimate
+outcome of certain significant items. These items include,
+but are not limited to, significant legal settlements,
+unrealized gains and losses on equity investments, tax
+and regulatory reserve changes, restructuring costs and
+acquisition and financing related impacts.
+
+There are a number of limitations related to the use of
+non-GAAP financial measures. In light of these limitations
+we provide specific information regarding the GAAP
+amounts excluded from these non-GAAP financial
+measures and evaluating these non-GAAP financial
+measures together with their relevant financial measures
+in accordance with GAAP.
+
+2
+
+Forward Looking Statements
+This presentation contains forward-looking statements
+regarding our future business expectations, which involve
+risks and uncertainties. Actual results may differ
+materially from the results predicted, and reported results
+should not be considered as an indication of future
+performance. Forward-looking statements include all
+statements that are not historical facts and can be
+identified by terms such as “anticipate,” “believe,”
+“contemplate,” “continue,” “could,” “estimate,” “expect,”
+“hope,” “intend,” “may,” “might,” “objective,” “ongoing,”
+“plan,” “potential,” “predict,” “project,” “should,” “target,”
+“will,” or “would” or similar expressions and the negatives
+of those terms. Forward-looking statements involve
+known and unknown risks, uncertainties and other factors
+that may cause our actual results, performance or
+achievements to be materially different from any future
+results, performance or achievements expressed or
+implied by the forward-looking statements. These risks,
+uncertainties and other factors relate to, among others:
+competition, managing our growth and corporate culture,
+financial performance, investments in new products or
+
+offerings, our ability to attract drivers, consumers and
+other partners to our platform, our brand and reputation,
+other legal and regulatory developments, particularly with
+respect to our relationships with drivers and couriers, and
+the impact of the global economy, including rising
+inflation and interest rates. In addition, other potential
+risks and uncertainties that could cause actual results to
+differ from the results predicted include, among others,
+those risks and uncertainties included under the captions
+“Risk Factors” and “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations”
+in our most recent quarterly report on Form 10-Q for the
+quarter ended September 30, 2025 and subsequent
+annual reports, quarterly reports and other filings filed
+with the Securities and Exchange Commission from time
+to time. All information provided in this presentation is as
+of the date hereof and any forward-looking statements
+contained herein are based on assumptions that we
+believe to be reasonable as of such date. We undertake no
+duty to update this information unless required by law.
+
+3
+
+Autonomous Vehicles Spotlight
+Financial and Operational Highlights
+Segment Details
+Condensed Consolidated Financials
+Non-GAAP Reconciliations
+
+Q4 2025 Earnings
+
+4
+
+Autonomous vehicles likely to drive incremental
+category growth
+0.4
+
+Uber Mobility Trips (YoY Growth)
+
+Pre AV launch
+
+Atlanta
+
+0.3
+
+Post AV launch
+
+Austin
+0.2
+
+First Time
+Riders
+0.1
+
+U.S. Top 20 Cities
+
+YoY Growth
+Acceleration
+
++9pp
+
+0
+
+Trips per
+Rider
+
+-0.1
+
+YoY Growth
+Acceleration
+
+AV launch in city
+-0.2
+
+Jan ‘25
+
++3pp
+
+Dec ‘25
+
+-0.3
+
+Q4 2025 Earnings
+
+Note 1: Uber trip growth in Atlanta and Austin based on AV operating zone. U.S. top 20 cities based on city limits as defined by U.S. Census Bureau and reflects Uber's top cities by Mobility Gross Bookings.
+Note 2: First Time Riders and Trips per Rider calculated as acceleration in YoY growth rate from month before launch to second half of 2025.
+
+5
+
+San Francisco is a uniquely favorable market for
+AV deployments
+Concentrated Demand
+
+Affluent Demographics
+
+Shorter Trips
+
+-60%
+-46%
+2x
+
+2x
+
+2x
+
+4x
+
+San Francisco
+San Francisco
+
+Los Angeles
+
+San
+Francisco
+
+Los
+Angeles
+
+U.S. Top 50
+Cities
+
+Population Density
+Q4 2025 Earnings
+
+Los Angeles
+
+Los Angeles
+
+Top 50 US Cities
+
+Los
+Angeles
+
+U.S. Top 50
+Cities
+
+San Francisco
+
+Top 50 US Cities
+
+Top 50 US Cities
+
+San
+Francisco
+
+Los
+Angeles
+
+U.S. Top 50
+Cities
+
+Median Income
+
+Note 1: U.S. top 50 cities based on city limits as defined by U.S. Census Bureau and reflects Uber's top cities by Mobility Gross Bookings.
+
+San
+Francisco
+
+Miles per Trip
+6
+
+AVs on Uber are significantly busier and more reliable
+than 1P deployments
+AV Trips per Vehicle per Day
+
+AV ETA (mins)
+
+San Francisco
+
+Current
+1P
+
+Los Angeles
+Phoenix
+
+Austin
+
+AVs on
+Uber
+
+~30%
+higher
+
+~25%
+faster
+
+Atlanta
+Reflects weighted average comparison against observed performance of current 1P deployments
+
+Q4 2025 Earnings
+
+Note 1: Reflects Q4 estimates for observed AV deployments in San Francisco, Los Angeles, and Phoenix using publicly filed data with the California Public Utilities Commission (CPUC), third party data sources, and external reports.
+
+7
+
+Uber's network delivers the highest AV utilization
+against highly variable demand
+Austin AV Operating Zone
+Total Mobility Trips
+
+Peak Demand
+
+50
+00
+
+AV Trips
+
+Stable engagement
+for AVs, which serve
+as a fixed base load
+supply
+
+2
+
+An AV only competitor must hold significant
+underutilized supply to match Uber’s reliability
+and prices or deliver worse consumer
+experience and leave significant demand
+on the table
+
+25
+
+00
+
+3
+
+12
+50
+
+Trips
+
+37
+50
+
+1
+
+Human drivers provide
+boost supply to meet
+demand spikes
+through the week
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
+
+Sunday
+
+Rideshare demand is highly variable through the week. A typical Monday is ~45% of a Saturday while daily troughs are ~5% of peaks.
+Q4 2025 Earnings
+
+8
+
+Uber operates in 8,000+ U.S. markets, covering 95%
+of U.S. population
+Markets outside the top 20 cities represent the vast majority of U.S. Gross Bookings and profits
+
+~30%
+
+of U.S. Mobility
+Gross Bookings
+
+~25%
+
+of U.S. Mobility profits
+
+generated within our
+
+U.S. top 20
+Mobility cities
+Q4 2025 Earnings
+
+Uber Trips
+~95% U.S. population
+coverage
+
+Note 1. City limits defined by U.S. Census Bureau. Includes trips that originate and end in given city. Data as of FY’25.
+
+9
+
+We intend to be the largest facilitator of AV trips in the
+world by 2029
+Live
+cities:
+
+• Abu Dhabi, UAE
+• Atlanta, GA
+• Austin, TX
+
+Hardware Platform
+
+• Dallas, TX
+• Dubai, UAE
+• Phoenix, AZ
+
+• Riyadh, KSA
+
+Upcoming
+cities:
+
+• Bay Area, CA
+• Hong Kong, HK
+• Houston, TX
+
+Self-Driving Technology
+
+• London, UK
+• Los Angeles, CA
+• Madrid, ES
+
+• Munich, DE
+• Zurich, CH
+
+Fleet Management
+
+More announcements coming soon
+Q4 2025 Earnings
+
+10
+
+Autonomous Vehicles Spotlight
+Financial and Operational Highlights
+Segment Details
+Condensed Consolidated Financials
+Non-GAAP Reconciliations
+
+Q4 2025 Earnings
+
+11
+
+Operating Metrics
+Figures in Millions, excluding Monthly Trips / MAPC
+MAPCs
+
+202
+
+171
+
+170
+
+180
+
+189
+
+14%
+
+14%
+
+15%
+
+17%
+
+18%
+
+6.2
+
+6.2
+
+% Growth YoY
+
+Monthly
+Trips / MAPC
+
+6.0
+
+6.0
+
+6.1
+
+% Growth YoY
+
+3%
+
+Trips
+
+3%
+
+2%
+
+3,268
+
+4%
+3,512
+
+3%
+3,751
+
+3,068
+
+3,036
+
+18%
+
+18%
+
+18%
+
+22%
+
+22%
+
+Q4 2024
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+% Growth YoY
+
+Q4 2025 Earnings
+
++18%
+
+MAPCs Growth YoY
+
++3%
+
+Frequency Growth YoY
+
++22%
+Trips Growth YoY
+
+Note 1: MAPCs is the number of unique consumers who completed a Mobility ride or received a Delivery order on our platform at least once in a given month, averaged over each month in the quarter.
+Note 2: We define Trips as the number of completed consumer Mobility rides and Delivery orders in a given period.
+Note 3: We define Frequency as Monthly Trips divided by MAPCs for a given period.
+
+12
+
+Gross Bookings
+$ in Millions
+$54,140
+$49,740
+$44,197
+
+$46,756
+$42,818
+
++22%
+
+Gross Bookings Constant
+Currency Growth YoY
+
+Q4 2024
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+18%
+
+14%
+
+17%
+
+21%
+
+22%
+
+% Growth YoY
+
+21%
+
+18%
+
+18%
+
+21%
+
+22%
+
+% Constant Currency Growth YoY
+
+Q4 2025 Earnings
+
+Note 1: We define Gross Bookings as the total dollar value, including any applicable taxes, tolls, and fees, of: Mobility rides, Delivery orders (in each case without any adjustment for consumer discounts and refunds, Driver and Merchant earnings, and
+Driver incentives) and Freight Revenue. Gross Bookings do not include tips earned by Drivers.
+Note 2: “% Constant Currency Growth YoY” is calculated by translating our current period financial results using the corresponding prior period’s monthly exchange rates for our transacted currencies other than the U.S. dollar.
+
+13
+
+Revenue
+$ in Millions
+$14,366
+$13,467
+$11,959
+
+$12,651
+
+$11,533
+
++19%
+
+Revenue Constant
+Currency Growth YoY
+
+Q4 2024
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+20%
+
+14%
+
+18%
+
+20%
+
+20%
+
+% Growth YoY
+
+21%
+
+17%
+
+18%
+
+19%
+
+19%
+
+% Constant Currency Growth YoY
+
+Q4 2025 Earnings
+
+Note 1: "% Constant Currency Growth YoY" is calculated by translating our current period results using the corresponding prior period's monthly exchange rates for our transacted currencies other than the U.S. dollar.
+
+14
+
+Adjusted EBITDA
+$ in Millions
+4.4%
+
+4.5%
+
+$2,487
+
+4.2%
+$2,119
+$1,842
+
+4.5%
+
+4.6%
+
+$2,256
+
++35%
+
+$1,868
+
+Adjusted EBITDA
+Growth YoY
+
+Adjusted EBITDA Margin as a % of Gross Bookings
+
+Q4 2024
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+44%
+
+35%
+
+35%
+
+33%
+
+35%
+
+Q4 2025 Earnings
+
+% Growth YoY
+
+Note 1: We define Adjusted EBITDA as net income (loss), excluding (i) income (loss) from discontinued operations, net of income taxes, (ii) net income (loss) attributable to non-controlling interests, net of tax, (iii) provision for (benefit from) income taxes, (iv)
+income (loss) from equity method investments, (v) interest expense, (vi) interest income, (vii) other income (expense), net, (viii) depreciation and amortization, (ix) stock-based compensation expense, (x) certain legal, non-income tax, and regulatory reserve
+changes and settlements, (xi) goodwill and asset impairments/loss on sale of assets, (xii) acquisition, financing and divestitures related expenses, (xiii) restructuring and related charges and (xiv) other items not indicative of our ongoing operating performance.
+Note 2: We define Adjusted EBITDA margin as a percentage of Gross Bookings as Adjusted EBITDA divided by Gross Bookings.
+Note 3: See Non-GAAP reconciliations for reconciliation of non-GAAP measures.
+
+15
+
+Non-GAAP Operating Income
+$ in Millions
+3.3%
+
+3.4%
+
+3.5%
+$1,918
+
+3.1%
+$1,534
+
+$1,675
+
++46%
+
+$1,326
+
+Non-GAAP Operating Income
+Growth YoY
+Non-GAAP Operating Income as a % of Gross Bookings
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+62%
+
+50%
+
+46%
+
+46%
+
+Q4 2025 Earnings
+
+% Growth YoY
+
+Note 1: We define Non-GAAP Operating Income as income from operations, excluding (i) amortization of acquired intangible assets, (ii) certain legal, non-income tax, and regulatory reserve changes and settlements, (iii) goodwill and asset impairments/loss on
+sale of assets, (iv) acquisition, financing and divestitures related expenses, (v) restructuring and related charges, and (vi) other items not indicative of our ongoing operating performance.
+Note 2: We define Non-GAAP Operating Income margin as a percentage of Gross Bookings as Non-GAAP Operating Income divided by Gross Bookings
+Note 3: See Non-GAAP reconciliations for a reconciliation of non-GAAP measures
+
+16
+
+Non-GAAP EPS
+$0.71
+$0.60
+
+$0.65
+
++27%
+
+$0.50
+
+Non-GAAP EPS
+Growth YoY
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+43%
+
+50%
+
+27%
+
+27%
+
+Q4 2025 Earnings
+
+% Growth YoY
+
+Note 1: We define Non-GAAP EPS as Non-GAAP Net Income attributable to common stockholders divided by Non-GAAP weighted-average shares outstanding. Adjustments to GAAP diluted weighted-average shares outstanding are for any potentially
+dilutive outstanding securities in periods where Non-GAAP Net Income is positive, but GAAP Net income was in a loss position.
+Note 2: See Non-GAAP reconciliations for a reconciliation of non-GAAP measures
+
+17
+
+Autonomous Vehicles Spotlight
+Financial and Operational Highlights
+Segment Details
+Condensed Consolidated Financials
+Non-GAAP Reconciliations
+
+Q4 2025 Earnings
+
+18
+
+Mobility Highlights
+$ in Millions
+
+$23,762
+
+$25,111
+
+20%
+
+18%
+
+19%
+
+30.7%
+
+30.7%
+
+30.6%
+
+$22,798
+
+$21,182
+
+24%
+
+$27,442
+
+Gross
+Bookings
+% Constant Currency
+Growth YoY
+
+30.3%
+
+Revenue
+
+19%
+
++19%
+
+Gross Bookings Constant
+Currency Growth YoY
+
+29.9%
+
+$6,911
+
+$6,496
+
+$7,288
+
+26%
+
+18%
+
+18%
+
+$7,682
+
+$8,204
+
+18%
+
+18%
+
+% Constant Currency
+Growth YoY
+
+Revenue Margin
+
+8.3%
+7.8%
+
+Adjusted
+EBITDA
+
+8.0%
+
+8.1%
+
+8.0%
+$2,203
+
+$1,769
+
+$1,753
+
+$1,905
+
+$2,038
+
+22%
+
+19%
+
+22%
+
+21%
+
+25%
+
+Q4 2024
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+Adjusted EBITDA: Segment Adjusted
+EBITDA Margin as a % of Gross Bookings
+
+% Reported Growth YoY
+
+Q4 2025 Earnings
+
+Note 1: Revenue Margin is defined as Revenue as a percentage of Gross Bookings.
+Note 2: See Non-GAAP reconciliations for reconciliation of non-GAAP measures.
+Note 3: All measures are for Mobility segment unless otherwise noted.
+
+19
+
+Delivery Highlights
+$ in Millions
+Gross
+Bookings
+
+$23,322
+
+$25,431
+
+$20,126
+
+$20,377
+
+$21,734
+
+18%
+
+18%
+
+20%
+
+24%
+
+26%
+
+18.9%
+
+19.2%
+
+19.2%
+$4,892
+
+29%
+
+% Constant Currency
+Growth YoY
+
+18.7%
+
+Revenue
+
+18.5%
+
+$3,773
+
+$3,777
+
+$4,102
+
+$4,477
+
+20%
+
+22%
+
+23%
+
+27%
+
++26%
+
+Gross Bookings Constant
+Currency Growth YoY
+
+% Constant Currency
+Growth YoY
+
+4.0%
+3.6%
+
+Adjusted
+EBITDA
+
+3.7%
+
+3.9%
+
+4.0%
+$1,015
+
+$727
+
+$763
+
+$873
+
+$921
+
+53%
+
+45%
+
+48%
+
+47%
+
+40%
+
+Q4 2024
+
+Q1 2025
+
+Q2 2025
+
+Q3 2025
+
+Q4 2025
+
+Revenue Margin
+Adjusted EBITDA: Segment Adjusted
+EBITDA Margin as a % of Gross Bookings
+
+% Reported Growth YoY
+
+Q4 2025 Earnings
+
+Note 1: Revenue Margin is defined as Revenue as a percentage of Gross Bookings.
+Note 2: See Non-GAAP reconciliations for reconciliation of non-GAAP measures.
+Note 3: All measures are for Delivery segment unless otherwise noted.
+
+20
+
+Freight Highlights
+$ in Millions
+$1,275
+
+$1,260
+
+$1,261
+
+$1,308
+
+$1,270
+
+0%
+
+(1%)
+
+(1%)
+
+0%
+
+(1%)
+
+($22)
+
+($7)
+
+($6)
+
+($20)
+
+$0
+
+Revenue
+% Constant Currency
+Growth YoY
+
+Adjusted
+EBITDA
+
+(0.6%)
+
+(0.5%)
+
+Q1 2025
+
+Q2 2025
+
+(1.7%)
+Q4 2024
+
+Q4 2025 Earnings
+
+Note 1: See Non-GAAP reconciliations for reconciliation of non-GAAP measures.
+Note 2: All measures are for Freight segment unless otherwise noted.
+
+0%
+(1.5%)
+
+Q3 2025
+
+Adjusted EBITDA: Segment Adjusted
+EBITDA Margin as a % of Revenue
+
+Q4 2025
+
+21
+
+Autonomous Vehicles Spotlight
+Financial and Operational Highlights
+Segment Details
+Condensed Consolidated Financials
+Non-GAAP Reconciliations
+
+Q4 2025 Earnings
+
+22
+
+Condensed
+Consolidated
+Statements of
+Operations
+(Unaudited)
+$ in Millions, except share
+amounts, which are in
+thousands, and per
+share amounts
+
+Three Months Ended Dec 31,
+
+Year Ended Dec 31,
+
+2024
+
+2025
+
+2024
+
+2025
+
+$11,959
+
+$14,366
+
+$43,978
+
+$52,017
+
+Cost of revenue, exclusive of depreciation and amortization shown separately below
+
+7,234
+
+8,681
+
+26,651
+
+31,338
+
+Operations and support
+
+678
+
+755
+
+2,732
+
+2,854
+
+1,209
+
+1,354
+
+4,337
+
+4,898
+
+Research and development
+
+785
+
+885
+
+3,109
+
+3,402
+
+General and administrative
+
+1,114
+
+732
+
+3,639
+
+3,241
+
+Depreciation and amortization
+
+169
+
+185
+
+711
+
+719
+
+Total costs and expenses
+
+$11,189
+
+$12,592
+
+$41,179
+
+$46,452
+
+Income from operations
+
+$770
+
+$1,774
+
+$2,799
+
+$5,565
+
+Interest expense
+
+(117)
+
+(115)
+
+(523)
+
+(440)
+
+Interest income
+
+191
+
+200
+
+721
+
+743
+
+Other income (expense), net
+
+65
+
+(1,568)
+
+1,128
+
+(68)
+
+909
+
+291
+
+4,125
+
+5,800
+
+Provision for (benefit from) income taxes
+
+(6,002)
+
+(40)
+
+(5,758)
+
+(4,346)
+
+Loss from equity method investments
+
+(10)
+
+(14)
+
+(38)
+
+(53)
+
+6,901
+
+317
+
+9,845
+
+10,093
+
+18
+
+21
+
+(11)
+
+40
+
+$6,883
+
+$296
+
+$9,856
+
+$10,053
+
+Basic
+
+$3.27
+
+$0.14
+
+$4.71
+
+$4.82
+
+Diluted
+
+$3.21
+
+$0.14
+
+$4.56
+
+$4.73
+
+Revenue
+Costs and expenses
+
+Sales and marketing
+
+Income before income taxes and loss from equity method investments
+
+Net income including non-controlling interests
+Less: net income (loss) attributable to non-controlling interests, net of tax
+Net income attributable to Uber Technologies, Inc.
+Net income per share attributable to Uber Technologies, Inc. common stockholders:
+
+Weighted-average shares used to compute net income per share attributable to common stockholders:
+
+Q4 2025 Earnings
+
+Basic
+
+2,105,899
+
+2,073,483
+
+2,094,602
+
+2,085,253
+
+Diluted
+
+2,141,426
+
+2,106,011
+
+2,150,508
+
+2,119,689
+23
+
+Condensed
+Consolidated
+Balance Sheets
+(Unaudited)
+$ in Millions
+
+Q4 2025 Earnings
+
+As of December 31,
+
+As of December 31,
+
+2024
+
+2025
+
+Cash and cash equivalents
+
+$5,893
+
+$7,105
+
+Short-term investments
+
+1,084
+
+528
+
+Restricted cash and cash equivalents
+
+545
+
+631
+
+Accounts receivable, net
+
+3,333
+
+3,827
+
+Prepaid expenses and other current assets
+
+1,390
+
+1,902
+
+$12,245
+
+$13,993
+
+Restricted cash and cash equivalents
+
+2,172
+
+1,911
+
+Restricted investments
+
+7,019
+
+8,874
+
+Investments
+
+8,460
+
+9,178
+
+Equity method investments
+
+302
+
+287
+
+Property and equipment, net
+
+1,952
+
+1,897
+
+Operating lease right-of-use assets
+
+1,158
+
+1,114
+
+Intangible assets, net
+
+1,125
+
+1,048
+
+Goodwill
+
+8,066
+
+8,931
+
+Deferred tax assets
+
+6,171
+
+10,951
+
+Other assets
+
+2,574
+
+3,618
+
+Total assets
+
+$51,244
+
+$61,802
+
+Assets
+
+Total current assets
+
+24
+
+Continued:
+
+Condensed
+Consolidated
+Balance Sheets
+(Unaudited)
+$ in Millions
+
+As of December 31,
+
+As of December 31,
+
+2024
+
+2025
+
+Accounts payable
+
+$858
+
+$1,013
+
+Short-term insurance reserves
+
+2,754
+
+3,387
+
+Operating lease liabilities, current
+
+175
+
+169
+
+Accrued and other current liabilities
+
+7,689
+
+7,751
+
+$11,476
+
+$12,320
+
+Long-term insurance reserves
+
+7,042
+
+9,076
+
+Long-term debt, net of current portion
+
+8,347
+
+10,521
+
+Operating lease liabilities, non-current
+
+1,454
+
+1,390
+
+Other long-term liabilities
+
+449
+
+412
+
+$28,768
+
+$33,719
+
+93
+
+165
+
+-
+
+-
+
+Additional paid-in capital
+
+42,801
+
+38,101
+
+Accumulated other comprehensive loss
+
+(517)
+
+(432)
+
+Accumulated deficit
+
+(20,726)
+
+(10,628)
+
+Total Uber Technologies, Inc. stockholders' equity
+
+$21,558
+
+$27,041
+
+825
+
+877
+
+Total equity
+
+$22,383
+
+$27,918
+
+Total liabilities, redeemable non-controlling interests and equity
+
+$51,244
+
+$61,802
+
+Liabilities, redeemable non-controlling interests and equity
+
+Total current liabilities
+
+Total liabilities
+Redeemable non-controlling interests
+Equity
+Common stock
+
+Non-redeemable non-controlling interests
+
+Q4 2025 Earnings
+
+25
+
+Condensed
+Consolidated
+Statements of
+Cash Flows
+(Unaudited)
+$ in Millions
+
+Three Months Ended Dec 31,
+
+Year Ended Dec 31,
+
+2024
+
+2025
+
+2024
+
+2025
+
+$6,901
+
+$317
+
+$9,845
+
+$10,093
+
+Depreciation and amortization
+
+176
+
+193
+
+737
+
+747
+
+Stock-based compensation
+
+419
+
+451
+
+1,796
+
+1,826
+
+(6,128)
+
+(287)
+
+(6,027)
+
+(4,779)
+
+Accretion of discounts on marketable debt securities, net
+
+(62)
+
+(35)
+
+(251)
+
+(158)
+
+Unrealized gain (loss) on debt and equity securities, net
+
+(556)
+
+1,602
+
+(1,832)
+
+97
+
+Unrealized foreign currency transactions
+
+135
+
+10
+
+308
+
+(120)
+
+Other
+
+92
+
+(20)
+
+187
+
+166
+
+Accounts receivable
+
+246
+
+(109)
+
+(142)
+
+(466)
+
+Prepaid expenses and other assets
+
+(30)
+
+(154)
+
+(694)
+
+(1,028)
+
+Operating lease right-of-use assets
+
+59
+
+42
+
+196
+
+177
+
+Accounts payable
+
+62
+
+(106)
+
+86
+
+126
+
+Accrued insurance reserves
+
+658
+
+581
+
+2,819
+
+2,660
+
+Accrued expenses and other liabilities
+
+(158)
+
+446
+
+330
+
+967
+
+Operating lease liabilities
+
+(64)
+
+(48)
+
+(221)
+
+(209)
+
+$1,750
+
+$2,883
+
+$7,137
+
+$10,099
+
+Cash flows from operating activities
+Net income including non-controlling interests
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Deferred income taxes
+
+Change in assets and liabilities, net of impact of business acquisitions and disposals:
+
+Net cash provided by operating activities
+
+Q4 2025 Earnings
+
+26
+
+Continued:
+
+Condensed
+Consolidated
+Statements of
+Cash Flows
+(Unaudited)
+$ in Millions
+
+Three Months Ended Dec 31,
+
+Year Ended Dec 31,
+
+2024
+
+2025
+
+2024
+
+2025
+
+($44)
+
+($75)
+
+($242)
+
+($336)
+
+(1)
+
+(390)
+
+(289)
+
+(676)
+
+(3,020)
+
+(7,502)
+
+(12,765)
+
+(21,447)
+
+4,437
+
+6,499
+
+10,204
+
+20,046
+
+Acquisition of businesses, net of cash acquired
+
+-
+
+(11)
+
+-
+
+(815)
+
+Other investing activities
+
+61
+
+(135)
+
+(85)
+
+(336)
+
+$1,433
+
+($1,614)
+
+($3,177)
+
+($3,564)
+
+-
+
+-
+
+3,972
+
+3,359
+
+(2,000)
+
+(1,150)
+
+(3,986)
+
+(2,350)
+
+(50)
+
+(45)
+
+(172)
+
+(157)
+
+53
+
+63
+
+156
+
+183
+
+Repurchases of common stock
+
+(555)
+
+(1,912)
+
+(1,252)
+
+(6,523)
+
+Redemption of non-controlling interests
+
+(851)
+
+(70)
+
+(851)
+
+(109)
+
+6
+
+(4)
+
+46
+
+(116)
+
+($3,397)
+
+($3,118)
+
+($2,087)
+
+($5,713)
+
+Effect of exchange rate changes on cash and cash equivalents, and restricted cash and cash equivalents
+
+(179)
+
+13
+
+(267)
+
+215
+
+Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents
+
+($393)
+
+($1,836)
+
+$1,606
+
+$1,037
+
+Beginning of period
+
+9,003
+
+11,483
+
+7,004
+
+8,610
+
+End of period
+
+$8,610
+
+$9,647
+
+$8,610
+
+$9,647
+
+Cash flows from investing activities
+Purchases of property and equipment
+Purchases of non-marketable equity securities
+Purchases of marketable securities
+Proceeds from maturities and sales of marketable securities
+
+Net cash provided by (used in) investing activities
+Cash flows from financing activities
+Issuance of term loan and notes, net of issuance costs
+Principal repayment on term loan and notes
+Principal payments on finance leases
+Proceeds from the issuance of common stock under the Employee Stock Purchase Plan
+
+Other financing activities
+Net cash used in financing activities
+
+Cash and cash equivalents, and restricted cash and cash equivalents
+
+Q4 2025 Earnings
+
+27
+
+Autonomous Vehicles Spotlight
+Financial and Operational Highlights
+Segment Details
+Condensed Consolidated Financials
+Non-GAAP Reconciliations
+
+Q4 2025 Earnings
+
+28
+
+Adjusted EBITDA Reconciliation (Unaudited)
+$ in Millions
+
+Three Months Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+Mobility
+
+$1,769
+
+$1,753
+
+$1,905
+
+$2,038
+
+$2,203
+
+Delivery
+
+727
+
+763
+
+873
+
+921
+
+1,015
+
+Freight
+
+(22)
+
+(7)
+
+(6)
+
+(20)
+
+-
+
+Corporate G&A and Platform R&D
+
+(632)
+
+(641)
+
+(653)
+
+(683)
+
+(731)
+
+Adjusted EBITDA
+
+$1,842
+
+$1,868
+
+$2,119
+
+$2,256
+
+$2,487
+
+(462)
+
+(28)
+
+-
+
+(479)
+
+(57)
+
+Goodwill and asset impairments / loss on sale of assets
+
+(6)
+
+-
+
+-
+
+(2)
+
+-
+
+Restructuring and related charges
+
+(5)
+
+(1)
+
+-
+
+(3)
+
+(5)
+
+Loss on lease arrangements, net
+
+(2)
+
+(2)
+
+-
+
+-
+
+-
+
+Acquisition, financing and divestitures related expenses
+
+(9)
+
+(3)
+
+(19)
+
+(6)
+
+(15)
+
+Depreciation and amortization
+
+(169)
+
+(171)
+
+(175)
+
+(188)
+
+(185)
+
+Stock-based compensation expense
+
+(419)
+
+(435)
+
+(475)
+
+(465)
+
+(451)
+
+Income from operations
+
+$770
+
+$1,228
+
+$1,450
+
+$1,113
+
+$1,774
+
+65
+
+93
+
+(19)
+
+1,426
+
+(1,568)
+
+Interest expense
+
+(117)
+
+(105)
+
+(108)
+
+(112)
+
+(115)
+
+Interest income
+
+191
+
+169
+
+181
+
+193
+
+200
+
+Loss from equity method investments
+
+(10)
+
+(13)
+
+(12)
+
+(14)
+
+(14)
+
+(Provision for) benefit from income taxes
+
+6,002
+
+402
+
+(142)
+
+4,046
+
+40
+
+(18)
+
+2
+
+5
+
+(26)
+
+(21)
+
+$6,883
+
+$1,776
+
+$1,355
+
+$6,626
+
+$296
+
+Add (deduct):
+Legal, non-income tax, and regulatory reserve changes and settlements
+
+Add (deduct):
+Other income (expense), net
+
+Net (income) loss attributable to non-controlling interests, net of tax
+Net income attributable to Uber Technologies, Inc.
+Q4 2025 Earnings
+
+29
+
+Adjusted EBITDA Reconciliation - TTM (Unaudited)
+$ in Millions
+
+Trailing Twelve Months (TTM) Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+$6,484
+
+$6,970
+
+$7,519
+
+$8,085
+
+$8,730
+
+(1,123)
+
+(624)
+
+(490)
+
+(969)
+
+(564)
+
+Goodwill and asset impairments / loss on sale of assets
+
+(3)
+
+(6)
+
+(6)
+
+(8)
+
+(2)
+
+Restructuring and related charges
+
+(25)
+
+(19)
+
+(10)
+
+(9)
+
+(9)
+
+Loss on lease arrangements, net
+
+(2)
+
+(4)
+
+(4)
+
+(4)
+
+(2)
+
+Acquisition, financing and divestitures related expenses
+
+(25)
+
+(23)
+
+(39)
+
+(37)
+
+(43)
+
+Depreciation and amortization
+
+(711)
+
+(692)
+
+(694)
+
+(703)
+
+(719)
+
+Stock-based compensation expense
+
+(1,796)
+
+(1,747)
+
+(1,767)
+
+(1,794)
+
+(1,826)
+
+Income from operations
+
+$2,799
+
+$3,855
+
+$4,509
+
+$4,561
+
+$5,565
+
+Other income (expense), net
+
+1,128
+
+2,058
+
+1,795
+
+1,565
+
+(68)
+
+Interest expense
+
+(523)
+
+(504)
+
+(473)
+
+(442)
+
+(440)
+
+Interest income
+
+721
+
+731
+
+736
+
+734
+
+743
+
+Loss from equity method investments
+
+(38)
+
+(47)
+
+(47)
+
+(49)
+
+(53)
+
+(Provision for) benefit from income taxes
+
+5,758
+
+6,189
+
+6,104
+
+10,308
+
+4,346
+
+11
+
+4
+
+2
+
+(37)
+
+(40)
+
+$9,856
+
+$12,286
+
+$12,626
+
+$16,640
+
+$10,053
+
+Adjusted EBITDA
+Add (deduct):
+Legal, non-income tax, and regulatory reserve changes and settlements
+
+Add (deduct):
+
+Net (income) loss attributable to non-controlling interests, net of tax
+Net income attributable to Uber Technologies, Inc.
+
+Q4 2025 Earnings
+
+30
+
+Non-GAAP Operating Income Reconciliation (Unaudited)
+$ in Millions
+Three Months Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+Mobility
+
+$1,608
+
+$1,587
+
+$1,729
+
+$1,864
+
+$2,027
+
+Delivery
+
+639
+
+671
+
+766
+
+811
+
+905
+
+Freight
+
+(41)
+
+(25)
+
+(26)
+
+(40)
+
+(18)
+
+Corporate G&A and Platform R&D
+
+(888)
+
+(907)
+
+(935)
+
+(960)
+
+(996)
+
+Non-GAAP Operating Income
+
+$1,318
+
+$1,326
+
+$1,534
+
+$1,675
+
+$1,918
+
+Amortization of acquired intangible assets
+
+(64)
+
+(64)
+
+(65)
+
+(72)
+
+(67)
+
+Legal, non-income tax, and regulatory reserve changes and settlements
+
+(462)
+
+(28)
+
+-
+
+(479)
+
+(57)
+
+Goodwill and asset impairment/loss on sale of assets
+
+(6)
+
+-
+
+-
+
+(2)
+
+-
+
+Acquisition, financing, and divestitures related expenses
+
+(9)
+
+(3)
+
+(19)
+
+(6)
+
+(15)
+
+Loss on lease arrangements, net
+
+(2)
+
+(2)
+
+-
+
+-
+
+-
+
+Restructuring and related charges
+
+(5)
+
+(1)
+
+-
+
+(3)
+
+(5)
+
+GAAP Income from Operations
+
+$770
+
+$1,228
+
+$1,450
+
+$1,113
+
+$1,774
+
+Add (deduct):
+
+Q4 2025 Earnings
+
+31
+
+Non-GAAP Net Income and EPS Reconciliations (Unaudited)
+$ in Millions, except share amounts, which are in thousands, and per share amounts
+Three Months Ended
+Mar 31, ‘24
+Non-GAAP Net Income
+
+Jun 30, ‘24 Sept 30, ‘24
+
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25 Sept 30, ‘25
+
+Dec 31, ‘25
+
+$778
+
+$881
+
+$1,110
+
+$1,201
+
+$1,072
+
+$1,280
+
+$1,389
+
+$1,496
+
+Adjustments excluded from Non-GAAP Operating Income (see prior slide)
+
+(649)
+
+(229)
+
+(85)
+
+(548)
+
+(98)
+
+(84)
+
+(562)
+
+(144)
+
+Other (income) expense, net
+
+(837)
+
+244
+
+1,656
+
+65
+
+93
+
+(19)
+
+1,426
+
+(1,568)
+
+Income tax effects
+
+58
+
+131
+
+(57)
+
+6,175
+
+722
+
+190
+
+4,387
+
+526
+
+Loss from equity method investments
+
+(4)
+
+(12)
+
+(12)
+
+(10)
+
+(13)
+
+(12)
+
+(14)
+
+(14)
+
+($654)
+
+$1,015
+
+$2,612
+
+$6,883
+
+$1,776
+
+$1,355
+
+$6,626
+
+$296
+
+2,150,101
+
+2,150,019
+
+2,154,466
+
+2,141,426
+
+2,122,618
+
+2,125,628
+
+2,124,391
+
+2,106,011
+
+Non-GAAP EPS
+
+$0.35
+
+$0.40
+
+$0.51
+
+$0.56
+
+$0.50
+
+$0.60
+
+$0.65
+
+$0.71
+
+GAAP Diluted EPS
+
+($0.32)
+
+$0.47
+
+$1.20
+
+$3.21
+
+$0.83
+
+$0.63
+
+$3.11
+
+$0.14
+
+Add (deduct):
+
+GAAP Net income attributable to Uber Technologies, Inc.
+Diluted weighted-average shares outstanding
+
+Q4 2025 Earnings
+
+32
+
+Non-GAAP Costs and Operating Expenses Reconciliations
+(Unaudited) $ in Millions
+Three Months Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+$11,959
+
+$11,533
+
+$12,651
+
+$13,467
+
+$14,366
+
+7,234
+
+6,937
+
+7,611
+
+8,109
+
+8,681
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+$7,232
+
+$6,937
+
+$7,611
+
+$8,109
+
+$8,681
+
+GAAP Operations and support
+
+$678
+
+$668
+
+$696
+
+$735
+
+$755
+
+Restructuring and related charges
+
+(1)
+
+-
+
+-
+
+-
+
+(2)
+
+Goodwill and asset impairment/loss on sale of assets
+
+(6)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(1)
+
+-
+
+-
+
+-
+
+Stock-based compensation
+
+(47)
+
+(52)
+
+(59)
+
+(58)
+
+(56)
+
+Non-GAAP Operations and support
+
+$624
+
+$615
+
+$637
+
+$677
+
+$697
+
+Revenue
+GAAP Cost of Revenue, excluding D&A
+Restructuring and related charges
+Non-GAAP Cost of Revenue
+Non-GAAP Operating Expenses
+
+Loss on lease arrangements, net
+
+Q4 2025 Earnings
+
+33
+
+Continued:
+
+Non-GAAP Costs and Operating Expenses Reconciliations
+(Unaudited) $ in Millions
+Three Months Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+GAAP Sales and marketing
+
+$1,209
+
+$1,057
+
+$1,210
+
+$1,277
+
+$1,354
+
+Stock-based compensation
+
+(23)
+
+(24)
+
+(28)
+
+(26)
+
+(25)
+
+Non-GAAP Sales and marketing
+
+$1,186
+
+$1,033
+
+$1,182
+
+$1,251
+
+$1,329
+
+GAAP Research and development
+
+$785
+
+$815
+
+$840
+
+$862
+
+$885
+
+Acquisition, financing, and divestitures
+
+-
+
+-
+
+-
+
+-
+
+(1)
+
+Goodwill and asset impairment/loss on sale of assets
+
+-
+
+-
+
+-
+
+(2)
+
+-
+
+Stock-based compensation
+
+(260)
+
+(264)
+
+(284)
+
+(278)
+
+(275)
+
+Non-GAAP Research and development
+
+$525
+
+$551
+
+$556
+
+$582
+
+$609
+
+GAAP General and administrative
+
+$1,114
+
+$657
+
+$669
+
+$1,183
+
+$732
+
+Legal, non-income tax, and regulatory reserve changes and settlements
+
+(462)
+
+(28)
+
+-
+
+(479)
+
+-
+
+Restructuring and related charges
+
+(2)
+
+(1)
+
+-
+
+(1)
+
+(3)
+
+Loss on lease arrangements, net
+
+(2)
+
+(1)
+
+-
+
+-
+
+-
+
+Acquisition, financing, and divestitures related expenses
+
+(9)
+
+(3)
+
+(19)
+
+(6)
+
+(14)
+
+Stock-based compensation
+
+(89)
+
+(95)
+
+(104)
+
+(103)
+
+(95)
+
+Non-GAAP General and administrative
+
+$550
+
+$529
+
+$546
+
+$594
+
+$620
+
+Q4 2025 Earnings
+
+34
+
+Free Cash Flow Reconciliation (Unaudited)
+$ in Millions
+Three Months Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+Net cash provided by operating activities
+
+1,750
+
+2,324
+
+2,564
+
+2,238
+
+2,883
+
+Purchases of property and equipment
+
+(44)
+
+(74)
+
+(89)
+
+(98)
+
+(75)
+
+$1,706
+
+$2,250
+
+$2,475
+
+$2,230
+
+$2,808
+
+Free Cash Flow reconciliation:
+
+Free Cash Flow
+
+Trailing Twelve Months (TTM) Ended
+Dec 31, ‘24
+
+Mar 31, ‘25
+
+Jun 30, ‘25
+
+Sept 30, ‘25
+
+Dec 31, ‘25
+
+Net cash provided by operating activities
+
+7,137
+
+8,045
+
+8,789
+
+8,966
+
+10,099
+
+Purchases of property and equipment
+
+(242)
+
+(259)
+
+(249)
+
+(305)
+
+(336)
+
+Free Cash Flow
+
+$6,895
+
+$7,786
+
+$8,540
+
+$8,661
+
+$9,763
+
+Adjusted EBITDA
+
+6,484
+
+6,970
+
+7,519
+
+8,085
+
+8,730
+
+Free Cash Flow Conversion (% of Adj. EBITDA)
+
+106%
+
+112%
+
+114%
+
+107%
+
+112%
+
+TTM Free Cash Flow reconciliation:
+
+Q4 2025 Earnings
+
+35
+
+

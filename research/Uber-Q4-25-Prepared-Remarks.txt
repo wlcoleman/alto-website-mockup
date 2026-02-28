@@ -1,0 +1,440 @@
+Uber Technologies, Inc. (UBER)
+Q4 2025 Prepared Remarks
+February 4, 2026
+
+Dara Khosrowshahi, CEO
+Uber accelerated into another record-breaking quarter in Q4, with strength across all of our key
+operational and financial metrics. We are now operating at a 15 billion annual trip run-rate (40
+million+ trips per day, +22% YoY), with 202 million monthly active users (+18% YoY), our largest and
+most engaged customer base ever. Powered in part by improving strength in our U.S. business,
+Gross Bookings grew 22% YoY, the second consecutive quarter of acceleration and coming in
+above the high end of our guidance range. Looking at the full year, 2025 was our fifth
+consecutive year of 20%+ annual Gross Bookings growth, driven primarily by audience expansion
+and higher frequency. These healthy and consistent top-line trends, combined with continued
+cost discipline, translated into record full-year results of $8.7 billion in Adjusted EBITDA (+35%
+YoY) and $9.8 billion in free cash flow (+42% YoY).
+Very few companies are able to generate this much growth at this scale, and we’re proud of the
+execution and innovation that has gotten us to this point. Yet despite our size, we are still in the
+early stages of customer acquisition, which continues to be the primary contributor to our growth.
+In fact, we added more customers in Q4 than in any other quarter since the post-Covid recovery.
+Customers joining our platform are using Uber more frequently, with positive trends across
+cohorts, as they enjoy better reliability, lower-cost options, and wider selection. Further, as a
+result of our focus on cross-platform engagement, 40% of Uber customers are now using multiple
+products, driving frequency higher and building long-term loyalty. All of this demand growth was
+matched by continued strong growth in supply, with 9.7 million monthly drivers and couriers (+19%
+YoY), who took home more than $24 billion in the quarter, and over 1.3 million monthly merchants,
+all at all-time highs.
+We enter 2026 with substantial momentum, a scaled and profitable platform, and a clear
+operating framework to continue driving durable growth. From this position of strength, we will
+continue to make targeted growth investments, aligned with the six areas of strategic focus we
+outlined last quarter.
+Mobility
+Our focus on affordability, product innovation, and service expansion drove steady 18-20% YoY
+topline growth throughout 2025. Mobility Gross Bookings grew 19% YoY in Q4, reflecting strong
+demand across regions. In the U.S., growth accelerated for the second consecutive quarter, and
+EMEA continues to be a standout with ~30% YoY growth, driven by healthy category demand,
+category-position gains, and geographic expansion. Mobility Adjusted EBITDA continued to grow
+
+1
+
+faster than both trips and Gross Bookings, demonstrating operating leverage as the business
+continues to scale.
+We see our Mobility strategy as a barbell, combining low-cost offerings on the one end, stable
+UberX pricing in the middle, and higher-margin premium experiences on the other end. Airports
+are a great example of this strategy in action: in the low-cost portfolio, Uber Shuttle has
+expanded across all major New York airports, and we continue to expand UberX Share to airport
+pickups as well. To broaden our reach in the middle, our Uber One members get better price and
+service quality (with Surge Savings, highly-rated drivers, and more). We also recently launched
+our first Uber Kiosk at LaGuardia Airport, letting travelers request a ride even if they don’t have
+the Uber app. On the premium end, we have now expanded UberXXL for larger groups to more
+than 200 airports, with additional plans to expand our super-premium offerings this year.
+Despite already contributing 15% of Mobility Gross Bookings, airports remain an enormous
+opportunity. Across our top airports, we estimate roughly 10% of travelers use Uber to get to or
+from their flights. Our best-in-class airports—including in Rio de Janeiro, New York City, and
+Mexico City—already range from 20% to 40% penetration, so we see significant opportunity
+ahead.
+We also continue to diversify our Mobility offerings beyond UberX, with non-UberX products now
+representing ~35% of Mobility trips. We are seeing strong growth at both ends of the barbell, with
+Uber Moto and Uber Black trips both up roughly 40% YoY in 2025. At the same time, UberX
+growth also continued to accelerate in the U.S., with Q4 seeing the strongest UberX trip growth
+in more than two years.
+Looking ahead, continued improvements in marketplace health are supporting better per-trip
+economics. New rider growth reached multi-year highs in 2025 and our new rider cohorts are
+engaging more than prior cohorts, reinforcing the durability of demand and long-term lifetime
+value. We expect U.S. trip and Gross Bookings growth to accelerate further in 2026, on the back
+of a healthier pricing environment supported by lower insurance costs, strong supply dynamics,
+and accelerating product innovation. Together, these factors leave us well positioned to deliver
+another year of both healthy top-line growth and strong margin expansion.
+Delivery
+Delivery Gross Bookings further accelerated to 26% YoY, aided by a robust holiday season, and
+surpassing a $100 billion annual run-rate for the first time. We’re seeing accelerating restaurant
+delivery growth, strong membership adoption, and growing customer preference for our
+expanding Grocery and Retail (G&R) products. Growth was broad-based, accelerating both in the
+U.S. and internationally. EMEA was our fastest-growing Delivery region in 2025, and we
+continued to extend our leading category position in the UK and France, while growing our
+category positions in Germany and Spain. Globally, we estimate that our category position across
+2
+
+the vast majority of our top markets reached new highs, while we continued to generate strong
+operating leverage.
+Aligned with our areas of strategic focus, we see massive opportunities to attract new customers
+and increase engagement. A key imperative is helping merchants grow by meeting their wide
+range of needs—bringing them demand across delivery, pickup, and in-restaurant dining;
+powering first-party, last-mile fulfillment through Uber Direct; or providing industry-leading tools
+such as Offers, Ads, and more.
+We continue to strategically invest in G&R, with YoY growth accelerating, led by strong retail
+moments in the U.S. We had our biggest Black Friday ever, with U.S. Retail Gross Bookings up
+~300% YoY over that weekend. Selection expansion remains a core priority: active storefronts
+grew over 45% YoY, driven by the addition of marquee partners like Loblaws in Canada,
+Biedronka in Poland, Seiyu in Japan, and a new multi-year exclusivity with Coles, Australia’s
+largest grocer. We also welcomed several notable merchants in key retail categories like beauty
+and personal care, pets, health, electronics, and home improvement, including Hibbett Sports,
+Lush, and Pacsun in the U.S.
+In Q4, we expanded our OpenTable partnership across the U.S., Canada, Mexico, the U.K., and
+Ireland, letting customers make restaurant reservations directly in the Uber Eats app and receive
+targeted ride offers. We also deepened merchant relationships through Uber Direct, including a
+new integration with Shopify that allows merchants to embed one-hour, same-day, and scheduled
+delivery directly into their checkout experiences.
+On the product side, we’re reducing friction in everyday shopping through improvements to item
+replacements and returns, including smarter defaults for low-stock categories, cached
+replacement preferences, and the launch of courier pickup for easy returns. At the same time,
+we’re leveraging deep catalog intelligence to further personalize item-first search, ranking, and
+recommendations. With selection and product enhancements, we continue to drive even higher
+trial and adoption, and remain focused on activating everyday shopping occasions for our
+customer base.
+Platform initiatives
+Uber One continued its strong momentum, up 55% YoY to over 46 million members globally, with
+growth across all regions. Uber One is already the largest membership program of its kind where
+we operate, and we continue to see significant runway ahead. This quarter, we expanded the
+program with Family Sharing, allowing members to extend benefits to another adult and their
+teens at no additional cost. We are also leveraging our supply density to deliver ‘surprise’ vehicle
+upgrades for our most loyal users (e.g. from UberX to Comfort or Comfort to Black). These
+initiatives are driving improved retention and engagement, and more than 35% of Mobility Gross
+Bookings in the U.S. are now coming from Uber One members, up significantly YoY.
+3
+
+Advertising also continued its strong forward momentum, generating well over $2 billion in
+annualized revenue, up over 50% YoY. Notably, Delivery advertising as a percentage of Delivery
+Gross Bookings crossed 2%, driven by continued strong adoption of Sponsored Listings and the
+expansion of Sponsored Items. To deepen our value proposition, we partnered with LiveRamp to
+launch advanced planning tools that allow brands to close the loop with data-driven audience
+insights. We also introduced Journey Takeovers in the Uber (Mobility) app, unlocking premium,
+multi-surface real estate that transforms Uber into a comprehensive full-funnel partner across the
+tablet, app, and map interfaces.
+Turning to generative AI, we’re piloting several first-party agents to improve the customer
+experience and drive marketplace efficiency. This includes an AI Assistant for drivers and
+couriers to help them plan their day and increase their earnings, as well as several
+consumer-facing AI agents in both the Uber and Uber Eats apps, coming soon. We’re also
+applying Gen AI to our core operations, where Merchant Reasoning Agents have reduced
+false-positive store closures by more than 15%, and automated item-image enhancements are
+increasing storefront conversion. Beyond our own products, we’re partnering with leading AI
+platforms to expand discovery and reach new customers. We’ve launched integrations with
+ChatGPT across Rides and Eats, allowing users to discover services and restaurants directly
+within the LLM experience before completing checkout in Uber’s apps.
+Autonomous vehicles (see supplemental slides for supporting details)
+One year ago, we laid out our perspective on the future of autonomous vehicles (AVs) around the
+world. We said that while AV technology was advancing quickly, we expected commercialization
+to take much longer. This was because of what we called the ‘go-to-market puzzle.’ To deploy
+widely, AVs will need a consistently super-human safety record and enabling regulations; a
+cost-effective, scaled hardware platform; excellent on-the-ground operations; and a
+high-utilization network that can manage variable demand with flexible supply.
+Having learned from our AV deployments thus far, we are even more convinced that AVs will
+unlock a multi-trillion dollar opportunity for Uber. Autonomy fundamentally amplifies the strengths
+of our existing platform: global scale, deep demand density, sophisticated marketplace
+technology, and decades of experience matching millions of trips in real time.
+Even as we remain confident in our strategy, it is clear that investors continue to have questions
+about how this technology will impact Uber. We know that progress will not be a straight line, and
+the next few years will see the category evolve and mature. Yet we have enough insight today to
+give us renewed confidence in our approach—and to address some misconceptions about what
+an AV future means for our business.
+Misconception #1: AV growth will be zero-sum.
+4
+
+Reality: AVs are likely to drive incremental growth for the entire category.
+The history of ridesharing has always been supply-led. Our network benefits from every
+incremental unit of supply added in a city. As supply increases, customers find more value
+because rides become more affordable with faster ETAs. This fact alone gives us considerable
+conviction that AVs (as a new form of supply) will expand—not shrink—our total addressable
+market.
+Early data supports this view. In Austin and Atlanta, where hundreds of AVs are operating on the
+Uber network, our overall (AV and non-AV) trip growth has significantly accelerated. In fact, the
+Austin and Atlanta AV operating zones are now among our fastest-growing areas in the U.S.
+Encouragingly, the overall growth in these markets was driven by both an acceleration in new
+riders trying Uber for the first time and higher frequency among existing riders. Importantly, even
+as AV penetration has grown in both cities, the number of human drivers and their average
+earnings per hour are both up YoY because of the hybrid-network approach.
+At the same time, even in a city like San Francisco, where we don’t yet offer AV trips on Uber, the
+addition of AV supply to the market has grown the category overall. Uber trips in SF accelerated
+in 2025, and they are growing faster than the rest of the U.S. We are very bullish about the Bay
+Area as we make progress toward our own AV deployments there within the next 12 months.
+Misconception #2: Trends from San Francisco can be extrapolated elsewhere.
+Reality: No two cities are alike, and going from proof of concept to mass scale will be far
+more challenging.
+San Francisco offers a unique environment for AV deployments, making it perhaps the perfect
+city to showcase the technology for AV players in fundraising mode. SF benefits from a very
+tech-forward demographic, high population density, higher incomes, shorter trips, mild weather,
+and a more permissive AV regulatory environment. So it’s no surprise that multiple players—Nuro,
+Tesla, Waymo, and Zoox, to name a few—are at varying stages of deploying AV services in the
+Bay Area.
+However, the rest of the U.S. (and the world) looks very different from San Francisco. Elsewhere,
+we see more sprawling cities, a higher mix of long trips, lower average household incomes, and
+residents and local stakeholders who are not tech-forward by default. The regulatory
+environment outside of San Francisco looks quite different as well: it moves slower, is more
+fragmented, and is more cautious—balancing public safety with innovation. Moving forward, we
+expect to see evolving—and in some cases stricter—rules which will require extra development
+and compliance efforts, impacting how quickly operators can scale. Safety incidents, like
+collisions or unexpected behaviors, will also increase regulatory pressure and could lead to
+mandates on software or safety practices.
+
+5
+
+The uniqueness of San Francisco is already clear from public reporting and spending data—even
+within California itself. For example, the average number of trips an AV does per day in Los
+Angeles is an estimated ~50% lower than in San Francisco. That’s despite the fact that average
+AV prices in Los Angeles are ~20% lower than an equivalent UberX trip; on the other hand, San
+Francisco AV trips are generally 15%+ more expensive. This gap in utilization is likely to prove
+very costly for 1P AV services as they scale across multiple cities in the coming years. And as
+more players deploy in SF, we expect the novelty of AVs to wane, with them becoming more
+familiar and routine. This bodes well for hybrid 3P deployments that can deliver the lowest cost
+and fastest ETAs to customers, while maximizing vehicle utilization.
+It is important to note that even in San Francisco, 1P AV services are already leaving a lot of
+demand on the table during peak hours, with average ETAs that are at least 25% higher than
+Uber as of Q4. At the same time, we are observing that during the leaner hours, these vehicles
+are starving for demand and underutilized, and—unsurprisingly—promotional spend has steadily
+increased through the year. Uber’s reliability continues to be the most attractive by far throughout
+the week, particularly during peak demand periods. Over time, we have learned that
+reliability—when combined with competitive pricing—is the single best determinant of
+marketplace health and long-term customer satisfaction.
+Misconception #3: AV providers can achieve high vehicle utilization on their own at scale.
+Reality: A fixed-supply network cannot match the utilization of a hybrid-supply network.
+Building an AV is not the same as building a global mobility marketplace. Rideshare demand is
+highly variable, even within a given week. In Austin, for instance, demand on a typical Monday is
+~45% of a Saturday, while daily demand troughs are just ~5% of intra-week peaks. This variability
+is further compounded by seasonal patterns in demand, as well as spikes around special events.
+That is why we are confident that a hybrid network—human drivers and AVs—will deliver the
+highest asset efficiency and revenue-generation opportunity for Uber and its partners.
+That is precisely what we are seeing in Austin and Atlanta. There, we estimate that we are
+delivering average trips per vehicle per day (TpVD) around 30% higher than in other major AV
+markets. Compared to Los Angeles, our hybrid network is delivering more than twice the TpVD.
+These trends have been remarkably stable despite daily demand variation, even as we’ve
+continued to scale up the number of vehicles and the size of the AV operating areas in Austin
+and Atlanta. Over time, we expect to deliver an even greater lift to our AV partners, when we
+offer customers the ability to book an AV directly on our product selector.
+Customers are also benefiting from a hybrid network, with average AV ETAs in Austin and Atlanta
+an estimated ~25% lower than those observed in other major AV markets. We are also selectively
+building capabilities in value-add areas of the AV stack, including fleet management, charging
+
+6
+
+infrastructure, financing, data collection, remote assistance, and insurance. We will have more to
+share on those fronts soon.
+Misconception #4: AVs will only need to scale in a few U.S. cities to capture most ridesharing
+category profits.
+Reality: Our profit pools are diverse, and a large portion of U.S. trips (and profits) will be
+unaddressable by AVs for the foreseeable future.
+An often-repeated myth is that the vast majority of U.S. trips and profits are concentrated in the
+top cities. In reality, the U.S. is a very large and diverse market. Trips happening within our top 20
+cities1 represent only 30% of our U.S. Gross Bookings and just 25% of our profits.
+The truth is that the U.S. market comprises a long tail of thousands of cities, suburbs, towns, and
+rural areas with significant diversity in market characteristics and regulatory requirements. Over
+the last 15 years, we have sharpened and enhanced our ability to service these areas outside of
+our top 20 cities. The results speak for themselves: these areas are now growing faster and profit
+margins are already higher today. Said differently, even as AVs proliferate in dense urban areas
+over the next 5-10 years, we expect to serve a much wider and ever-expanding set of towns and
+suburbs, primarily with human drivers. Around 40% of our U.S. riders take trips outside of their
+home city, which means they expect us to be ever-present and able to get them on their way.
+Importantly, even within our top 20 cities, many—including New York City, Boston, and
+Chicago—do not have permissive regulatory frameworks, and policy reform is likely to take
+several more years, at minimum. New York City, the largest ridesharing market in the world,
+accounts for over 10% of our U.S. trips, and is also one of the most tightly regulated, with multiple
+key regulatory and licensing steps standing between testing today and full commercial service in
+the future.
+Misconception #5: AVs will soon be able to perform all trips.
+Reality: AVs still need to resolve a lot of edge cases to be reliably available in all conditions.
+Despite the incredible progress AVs are making around the world, and the enormous potential
+they hold, they are still far from capable of meeting the level of reliability and ubiquity that
+customers and cities expect.
+Worryingly, we have seen ‘AV deserts’ pop up, where AV operators do not serve (or have even
+yet to map) less affluent areas, like Oakland and parts of the East Bay. Those shortcomings only
+serve to reinforce the value of a hybrid network. For instance, in New York City, 75% of Uber trips
+start or end in the outer boroughs—and more than half of trips don’t enter Manhattan at all.
+1
+
+U.S. cities based on city limits as defined by U.S. Census Bureau.
+
+7
+
+We have also seen recent infrastructure and weather disruptions ground AV fleets for multiple
+days across multiple cities. In every case, the human drivers on our network kept cities moving.
+When San Francisco was paralyzed during the PG&E blackout just before Christmas, Uber’s
+network was quickly able to surge supply to meet demand and rescue stranded customers.
+During last week’s winter storms, we were able to seamlessly remove AVs from our network in
+Austin, Atlanta, and Dallas at the request of our partners, without any noticeable impact on the
+customer experience. That is another advantage of deploying on a hybrid network: we can
+manage the inevitable fits and starts in AV operations, without diluting the overall customer
+experience.
+Summary
+As we have said many times before, we have barely scratched the surface of the AV opportunity,
+with AV trips (on or off Uber’s platform) globally accounting for just 0.1% of global rideshare trips.
+Given our growth at scale, autonomous vehicles are likely to remain a very small portion of the
+rideshare category for many years to come. As a point of comparison, our Mobility business is
+currently adding ~50x the total global AV category volume.
+That said, we expect this penetration to rise exponentially over the next decade as our OEM
+partners scale production. We are particularly excited to see a number of players making
+significant progress in this space, including Nuro and Lucid, and our recently revealed
+production-design vehicle, which is already testing on-road; Waabi, which last week announced
+they will expand their focus from autonomous trucking to ridehailing, with a goal to put 25,000
+robotaxis exclusively on Uber; and NVIDIA, which unveiled their Alpamayo family of open-source
+AI models designed to accelerate AV development across a long and growing list of joint
+partners. We will have much more to announce with existing and new partners in the coming
+months.
+Transportation is too important of a category to be ‘winner-take-all’ (or even ‘winner-take-most’),
+and healthy competition will lead to better experiences for customers. We continue to make
+strategic investments into the ecosystem that will ensure riders have a variety of safe, affordable,
+and reliable options to choose from. By the end of 2026, we expect to be facilitating AV trips in
+as many as 15 cities globally, with a roughly even split of U.S. and international cities. And by
+2029, we intend to be the largest facilitator of AV trips in the world.
+AVs will change how trips are supplied, but not how demand is aggregated. History suggests that
+over time as supply fragments and technology commoditizes, the platform that can bring the
+highest utilization to assets, and superior reliability to customers, will capture a large share of
+value. That is the role Uber is set up to play.
+
+Prashanth Mahendra-Rajah, CFO
+8
+
+Financial recap
+We delivered a strong close to a record year, with $193 billion of Gross Bookings, $52 billion in
+revenue, and $8.7 billion in Adjusted EBITDA. Q4 Gross Bookings were up 22% YoY to $54.1
+billion, representing our strongest growth rate in nearly three years. We saw upside across both
+Mobility and Delivery relative to our expectations. Freight Gross Bookings were flattish. The US
+dollar continued to weaken against most foreign currencies in Q4, resulting in slight foreign
+exchange YoY tailwinds to both our Mobility and Delivery businesses, in-line with our
+expectations. Revenue increased 19% YoY to $14.4 billion.
+Our top-line strength helped drive Adjusted EBITDA growth of 35% YoY on a reported basis to a
+record $2.5 billion, resulting in an Adjusted EBITDA margin of 4.6% of Gross Bookings (up 40 bps
+YoY). Our Freight business achieved breakeven Adjusted EBITDA for the first time in over three
+years despite a continued challenging operating backdrop. Non-GAAP Operating Income and
+Non-GAAP Net Income grew 46% YoY and 25% YoY on a reported basis to $1.9 billion and $1.5
+billion, respectively. On a GAAP basis, we generated income from operations of $1.8 billion, up
+130% YoY on a reported basis, driven by strong operating performance and fewer discrete legal
+and regulatory related matters. Net income for the quarter was $296 million, which included a
+$1.6 billion net pre-tax headwind from revaluations of our equity investments. Our GAAP net
+income may continue to see swings from quarter-to-quarter due to equity stakes on our balance
+sheet.
+Turning to our cash flow, on a trailing twelve month basis, we generated a record $9.8 billion of
+free cash flow (FCF), representing a 112% conversion of Adjusted EBITDA. Our strong underlying
+FCF generation demonstrates the significant earnings power of our business. As a reminder, FCF
+conversion can fluctuate on a quarterly basis due to working capital seasonality and the timing of
+cash payments, among other factors, and we encourage investors to evaluate our FCF on an
+annual basis. We repurchased a record $1.9 billion of common stock in Q4, helping to drive a 2%
+YoY reduction in diluted share count. This exhausted our inaugural $7 billion share repurchase
+program faster than expected. We expect to continue to be active and opportunistic buyers of
+our stock under our additional $20 billion share repurchase program announced in August 2025,
+demonstrating our commitment to consistently return cash to shareholders.
+
+Balaji Krishnamurthy, Incoming CFO
+Capital allocation priorities
+We continue to maintain strong liquidity, ending the quarter with $7.6 billion in unrestricted cash,
+cash equivalents, and short-term investments. In addition, our equity stakes were marked at $9.2
+billion, the majority of which are publicly listed. We plan to opportunistically monetize our equity
+stakes over time, providing additional liquidity to support our capital allocation priorities.
+9
+
+Our capital allocation priorities are as follows:
+1.​ Disciplined reinvestment in future growth. Our goal is to maximize long-term profit
+generation. We are entering 2026 in the enviable position of being able to invest in
+multiple products and markets to sustain our strong growth at scale. We will invest to
+capture these opportunities, with a particular focus on technology and customer
+acquisition investments. We will continue to do so in a disciplined manner to deliver
+operating leverage, and with a rigorous focus on our customer cohorts and lifetime value
+to customer acquisition cost (LTV/CAC) ratios. Even as we make these investments, we
+are generating significant free cash flow—nearly $10 billion in the trailing 12 months, up
+over 40% YoY—allowing us to focus on several additional priorities.
+2.​ Invest appropriately to advance our AV strategy. Our goal over the coming years is for
+Uber’s network to facilitate the world’s largest AV deployment. We are seeing the
+opportunity space improve over time, and as such expect to invest along three core
+pillars. First, we will support our AV software partners, with capital as well as Uber’s data
+and platform capabilities. Second, we will support our OEM partners as they scale out
+their nascent AV production capacities. These investments may take the form of equity or
+vehicle offtake commitments. In the long term, we intend to remain asset-light and believe
+the ownership of AVs will become financialized over time; however, in the initial years of
+AV deployment, we may purchase some vehicles directly to shape the category and
+improve our speed to market. Third, we will support our AV infrastructure partners as they
+enter this space to support our deployments. In parallel, we are actively working on
+third-party financing partnerships, which will amplify our investments across all three
+pillars.
+3.​ Selective M&A to augment our organic efforts. We may selectively evaluate acquisition
+opportunities that are aligned with our strategy. We continue to hold a high bar for any
+M&A opportunities, and we are likely to be biased towards bolt-on opportunities that
+accelerate our organic efforts.
+4.​ Return excess capital to shareholders. We expect to steadily repurchase our stock
+through our existing repurchase authorization, and during stock dislocations we may look
+to be opportunistic and aggressive buyers to maximize long-term value. We remain on
+track to steadily reduce our share count.
+5.​ Maintain a solid investment grade rating. We plan to maintain financial policies and
+ample liquidity consistent with a solid investment grade rating to support our expanding
+marketplace and improve our cash efficiency over time.
+Outlook
+Before turning to the outlook for Q1, it is important to call out the following changes to our
+financial reporting.
+
+10
+
+UK business model change: Beginning in January 2026, following a UK tax law ruling, we
+transitioned from a merchant model to an agency model outside of London. As a result of this
+shift, driver payments will be reclassified from cost of revenue to contra-revenue, which will
+reduce reported revenue and revenue margin. There is no change to our merchant business
+model in London. We expect Q1 2026 and full-year 2026 Mobility revenue margin to be
+approximately 350 basis points lower, driven solely by this accounting reclassification. As a
+reminder, there is no impact on profitability from this change.
+New Non-GAAP disclosures (see Form 8-K for additional information): As previewed last
+quarter, to provide investors with a financial lens that is closer to the recurring operating
+economics of the company, we are making two changes. First, beginning with our Q1 earnings
+release, we will shift from reporting Adjusted EBITDA to Non-GAAP Operating Income, both at the
+total company and segment level, which now includes the impacts of SBC, depreciation, and
+non-M&A amortization. Second, starting with our Q1 guidance provided below, we are replacing
+our quarterly Adjusted EBITDA guidance with quarterly Non-GAAP EPS guidance. Absent any
+changes to our tax landscape, we expect our full-year 2026 Non-GAAP ETR to be 22-25%. Our
+ETR reflects our business with operations across 70+ countries, which results in a tax profile
+comparable to large US multinationals with significant global operating presence. Over the next
+few years, we expect our cash tax rate to be in the range of 10-15% as we are able to use
+historical tax losses and other historical tax assets.
+Based on quarter-to-date trends:
+●​ We expect Q1 Gross Bookings of $52.0-53.5 billion, representing growth of 17% to 21%
+YoY on a constant-currency basis.
+○​ Our outlook assumes a roughly 4 percentage-point currency tailwind to total
+reported YoY growth. Based on current exchange rates, we expect this tailwind to
+moderate as the year progresses.
+●​ We expect Q1 Non-GAAP EPS of $0.65-0.72, representing growth of 37% YoY at the
+midpoint.
+○​ Our outlook translates to Adjusted EBITDA of $2.37-2.47 billion. We are providing
+this comparison for Q1 to help investors navigate the transition to our new
+Non-GAAP disclosures.
+We are now two years into the three-year outlook that we presented at our 2024 Investor Update
+to help investors measure our performance. I am pleased to report that we continue to deliver
+against our commitments on all three items (Gross Bookings, Adjusted EBITDA, and Free Cash
+Flow). Based on our momentum entering 2026 and the team’s strong execution, we firmly expect
+to once again meet our commitments in the final year of our outlook.
+
+11
+
+Forward-Looking Statements Disclaimer
+These prepared remarks include both GAAP and non-GAAP financial measures. Additional
+disclosures regarding these non-GAAP measures, including a reconciliation of GAAP to
+non-GAAP measures, are included in the press release, supplemental slides and our filings with
+the SEC, each of which is posted to investor.uber.com.
+Certain statements in this presentation and on this call are forward-looking statements. You
+should not place undue reliance on forward-looking statements. Actual results may differ
+materially from these forward-looking statements, and we do not undertake any obligation to
+update any forward-looking statements we make today, except as required by law.
+For more information about factors that may cause actual results to differ materially from
+forward-looking statements, please refer to the press release we issued today and in other filings
+made with the SEC.
+All growth rates reflect YoY growth and are on a constant-currency basis, unless otherwise noted.
+Lastly, we ask you to review our earnings press release for a detailed Q4 financial review and our
+Q4 supplemental slides deck for additional disclosures that provide context on recent business
+performance.
+
+12
+
+
